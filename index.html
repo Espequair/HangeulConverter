@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Korean Hangeul Practice</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 300;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+
+        .tabs {
+            display: flex;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        .tab {
+            flex: 1;
+            padding: 20px;
+            text-align: center;
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 1.1em;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            color: #6c757d;
+        }
+
+        .tab.active {
+            background: white;
+            color: #495057;
+            border-bottom: 3px solid #667eea;
+        }
+
+        .tab:hover:not(.active) {
+            background: #e9ecef;
+        }
+
+        .content {
+            padding: 40px;
+            min-height: 500px;
+        }
+
+        .practice-area {
+            text-align: center;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .word-display {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            border: 2px solid #e9ecef;
+        }
+
+        .prompt {
+            font-size: 3em;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #495057;
+        }
+
+        .meaning {
+            font-size: 1.3em;
+            color: #6c757d;
+            font-style: italic;
+        }
+
+        .input-area {
+            margin-bottom: 30px;
+        }
+
+        .input-field {
+            width: 100%;
+            max-width: 400px;
+            padding: 20px;
+            font-size: 1.5em;
+            border: 3px solid #e9ecef;
+            border-radius: 10px;
+            text-align: center;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+
+        .input-field:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .feedback {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 10px;
+            font-size: 1.2em;
+            font-weight: 500;
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .feedback.correct {
+            background: #d4edda;
+            color: #155724;
+            border: 2px solid #c3e6cb;
+        }
+
+        .feedback.incorrect {
+            background: #f8d7da;
+            color: #721c24;
+            border: 2px solid #f5c6cb;
+        }
+
+        .feedback.neutral {
+            background: #fff3cd;
+            color: #856404;
+            border: 2px solid #ffeaa7;
+        }
+
+        .controls {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-top: 30px;
+        }
+
+        .btn {
+            padding: 12px 30px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1em;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #5a6fd8;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #5a6268;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(108, 117, 125, 0.3);
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 10px;
+                border-radius: 15px;
+            }
+
+            .header {
+                padding: 20px;
+            }
+
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .content {
+                padding: 20px;
+            }
+
+            .prompt {
+                font-size: 2.5em;
+            }
+
+            .tab {
+                padding: 15px 10px;
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>한글 Practice</h1>
+            <p>Master Korean Hangeul and Romanization</p>
+        </div>
+
+        <div class="tabs">
+            <button class="tab active" data-tab="hangeul-to-roman">Hangeul → Romanization</button>
+            <button class="tab" data-tab="roman-to-hangeul">Romanization → Hangeul</button>
+        </div>
+
+        <div class="content">
+            <div id="hangeul-to-roman" class="tab-content">
+                <div class="practice-area">
+                    <div class="word-display">
+                        <div class="prompt" id="hangeul-prompt">가</div>
+                        <div class="meaning" id="hangeul-meaning">to go</div>
+                    </div>
+                    <div class="input-area">
+                        <input type="text" class="input-field" id="hangeul-input" placeholder="Enter romanization..." autocomplete="off">
+                    </div>
+                    <div class="feedback neutral" id="hangeul-feedback">
+                        Type the romanization for the Korean word above
+                    </div>
+                    <div class="controls">
+                        <button class="btn btn-secondary" id="hangeul-skip">Skip</button>
+                        <button class="btn btn-primary" id="hangeul-next">Next Word</button>
+                    </div>
+                </div>
+            </div>
+
+            <div id="roman-to-hangeul" class="tab-content hidden">
+                <div class="practice-area">
+                    <div class="word-display">
+                        <div class="prompt" id="roman-prompt">ga</div>
+                        <div class="meaning" id="roman-meaning">to go</div>
+                    </div>
+                    <div class="input-area">
+                        <input type="text" class="input-field" id="roman-input" placeholder="Enter Hangeul..." autocomplete="off">
+                    </div>
+                    <div class="feedback neutral" id="roman-feedback">
+                        Type the Hangeul for the romanized word above
+                    </div>
+                    <div class="controls">
+                        <button class="btn btn-secondary" id="roman-skip">Skip</button>
+                        <button class="btn btn-primary" id="roman-next">Next Word</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Korean vocabulary database with CV and CVC patterns
+        const vocabulary = [
+            // Colors
+            { hangeul: '빨간', romanization: 'ppalgan', meaning: 'red' },
+            { hangeul: '파란', romanization: 'paran', meaning: 'blue' },
+            { hangeul: '노란', romanization: 'noran', meaning: 'yellow' },
+            { hangeul: '초록', romanization: 'chorok', meaning: 'green' },
+            { hangeul: '하얀', romanization: 'hayan', meaning: 'white' },
+            { hangeul: '검은', romanization: 'geomeun', meaning: 'black' },
+            
+            // Numbers
+            { hangeul: '하나', romanization: 'hana', meaning: 'one' },
+            { hangeul: '둘', romanization: 'dul', meaning: 'two' },
+            { hangeul: '셋', romanization: 'set', meaning: 'three' },
+            { hangeul: '넷', romanization: 'net', meaning: 'four' },
+            { hangeul: '다섯', romanization: 'daseot', meaning: 'five' },
+            { hangeul: '여섯', romanization: 'yeoseot', meaning: 'six' },
+            { hangeul: '일곱', romanization: 'ilgop', meaning: 'seven' },
+            { hangeul: '여덟', romanization: 'yeodeol', meaning: 'eight' },
+            { hangeul: '아홉', romanization: 'ahop', meaning: 'nine' },
+            { hangeul: '열', romanization: 'yeol', meaning: 'ten' },
+            
+            // Family
+            { hangeul: '아버지', romanization: 'abeoji', meaning: 'father' },
+            { hangeul: '어머니', romanization: 'eomeoni', meaning: 'mother' },
+            { hangeul: '형', romanization: 'hyeong', meaning: 'older brother (for males)' },
+            { hangeul: '누나', romanization: 'nuna', meaning: 'older sister (for males)' },
+            { hangeul: '언니', romanization: 'eonni', meaning: 'older sister (for females)' },
+            { hangeul: '오빠', romanization: 'oppa', meaning: 'older brother (for females)' },
+            { hangeul: '동생', romanization: 'dongsaeng', meaning: 'younger sibling' },
+            
+            // Common verbs
+            { hangeul: '가다', romanization: 'gada', meaning: 'to go' },
+            { hangeul: '오다', romanization: 'oda', meaning: 'to come' },
+            { hangeul: '보다', romanization: 'boda', meaning: 'to see/watch' },
+            { hangeul: '먹다', romanization: 'meokda', meaning: 'to eat' },
+            { hangeul: '마시다', romanization: 'masida', meaning: 'to drink' },
+            { hangeul: '자다', romanization: 'jada', meaning: 'to sleep' },
+            { hangeul: '일하다', romanization: 'ilhada', meaning: 'to work' },
+            { hangeul: '공부하다', romanization: 'gongbuhada', meaning: 'to study' },
+            
+            // Common nouns
+            { hangeul: '집', romanization: 'jip', meaning: 'house' },
+            { hangeul: '학교', romanization: 'hakgyo', meaning: 'school' },
+            { hangeul: '친구', romanization: 'chingu', meaning: 'friend' },
+            { hangeul: '음식', romanization: 'eumsik', meaning: 'food' },
+            { hangeul: '물', romanization: 'mul', meaning: 'water' },
+            { hangeul: '책', romanization: 'chaek', meaning: 'book' },
+            { hangeul: '컴퓨터', romanization: 'keompyuteo', meaning: 'computer' },
+            { hangeul: '전화', romanization: 'jeonhwa', meaning: 'phone' },
+            
+            // Simple adjectives
+            { hangeul: '좋다', romanization: 'jota', meaning: 'good' },
+            { hangeul: '나쁘다', romanization: 'nappeuda', meaning: 'bad' },
+            { hangeul: '크다', romanization: 'keuda', meaning: 'big' },
+            { hangeul: '작다', romanization: 'jakda', meaning: 'small' },
+            { hangeul: '높다', romanization: 'nopda', meaning: 'high/tall' },
+            { hangeul: '낮다', romanization: 'natda', meaning: 'low' },
+            { hangeul: '빠르다', romanization: 'ppareuda', meaning: 'fast' },
+            { hangeul: '느리다', romanization: 'neurida', meaning: 'slow' },
+            
+            // Days of the week
+            { hangeul: '월요일', romanization: 'woryoil', meaning: 'Monday' },
+            { hangeul: '화요일', romanization: 'hwayoil', meaning: 'Tuesday' },
+            { hangeul: '수요일', romanization: 'suyoil', meaning: 'Wednesday' },
+            { hangeul: '목요일', romanization: 'mogyoil', meaning: 'Thursday' },
+            { hangeul: '금요일', romanization: 'geumyoil', meaning: 'Friday' },
+            { hangeul: '토요일', romanization: 'toyoil', meaning: 'Saturday' },
+            { hangeul: '일요일', romanization: 'iryoil', meaning: 'Sunday' }
+        ];
+
+        // Application state
+        let currentWordIndex = 0;
+        let lastWordIndex = -1;
+        let currentMode = 'hangeul-to-roman';
+
+        // DOM elements
+        const tabs = document.querySelectorAll('.tab');
+        const tabContents = document.querySelectorAll('.tab-content');
+        
+        // Hangeul to Roman elements
+        const hangeulPrompt = document.getElementById('hangeul-prompt');
+        const hangeulMeaning = document.getElementById('hangeul-meaning');
+        const hangeulInput = document.getElementById('hangeul-input');
+        const hangeulFeedback = document.getElementById('hangeul-feedback');
+        const hangeulSkip = document.getElementById('hangeul-skip');
+        const hangeulNext = document.getElementById('hangeul-next');
+        
+        // Roman to Hangeul elements
+        const romanPrompt = document.getElementById('roman-prompt');
+        const romanMeaning = document.getElementById('roman-meaning');
+        const romanInput = document.getElementById('roman-input');
+        const romanFeedback = document.getElementById('roman-feedback');
+        const romanSkip = document.getElementById('roman-skip');
+        const romanNext = document.getElementById('roman-next');
+
+        // Initialize the app
+        function init() {
+            setupEventListeners();
+            loadNewWord();
+        }
+
+        function setupEventListeners() {
+            // Tab switching
+            tabs.forEach(tab => {
+                tab.addEventListener('click', (e) => {
+                    switchTab(e.target.dataset.tab);
+                });
+            });
+
+            // Input validation
+            hangeulInput.addEventListener('input', validateHangeulInput);
+            romanInput.addEventListener('input', validateRomanInput);
+
+            // Enter key support
+            hangeulInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') nextWord();
+            });
+            romanInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') nextWord();
+            });
+
+            // Button events
+            hangeulSkip.addEventListener('click', nextWord);
+            hangeulNext.addEventListener('click', nextWord);
+            romanSkip.addEventListener('click', nextWord);
+            romanNext.addEventListener('click', nextWord);
+        }
+
+        function switchTab(tabName) {
+            // Update active tab
+            tabs.forEach(tab => tab.classList.remove('active'));
+            document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
+
+            // Update visible content
+            tabContents.forEach(content => content.classList.add('hidden'));
+            document.getElementById(tabName).classList.remove('hidden');
+
+            // Update current mode
+            currentMode = tabName;
+            
+            // Load new word for the new mode
+            loadNewWord();
+            
+            // Focus the appropriate input
+            setTimeout(() => {
+                if (currentMode === 'hangeul-to-roman') {
+                    hangeulInput.focus();
+                } else {
+                    romanInput.focus();
+                }
+            }, 100);
+        }
+
+        function loadNewWord() {
+            // Get random word, avoiding immediate repetition
+            do {
+                currentWordIndex = Math.floor(Math.random() * vocabulary.length);
+            } while (currentWordIndex === lastWordIndex && vocabulary.length > 1);
+            
+            lastWordIndex = currentWordIndex;
+            const word = vocabulary[currentWordIndex];
+
+            if (currentMode === 'hangeul-to-roman') {
+                hangeulPrompt.textContent = word.hangeul;
+                hangeulMeaning.textContent = word.meaning;
+                hangeulInput.value = '';
+                hangeulFeedback.textContent = 'Type the romanization for the Korean word above';
+                hangeulFeedback.className = 'feedback neutral';
+            } else {
+                romanPrompt.textContent = word.romanization;
+                romanMeaning.textContent = word.meaning;
+                romanInput.value = '';
+                romanFeedback.textContent = 'Type the Hangeul for the romanized word above';
+                romanFeedback.className = 'feedback neutral';
+            }
+        }
+
+        function normalizeInput(input) {
+            return input.trim().toLowerCase().replace(/[-_\s]/g, '');
+        }
+
+        function validateHangeulInput() {
+            const userInput = normalizeInput(hangeulInput.value);
+            const correctAnswer = normalizeInput(vocabulary[currentWordIndex].romanization);
+
+            if (userInput === '') {
+                hangeulFeedback.textContent = 'Type the romanization for the Korean word above';
+                hangeulFeedback.className = 'feedback neutral';
+            } else if (userInput === correctAnswer) {
+                hangeulFeedback.textContent = '✓ Correct! Well done!';
+                hangeulFeedback.className = 'feedback correct';
+            } else {
+                // Check for partial matches to give helpful feedback
+                if (correctAnswer.startsWith(userInput) || correctAnswer.includes(userInput)) {
+                    hangeulFeedback.textContent = 'Keep typing... you\'re on the right track!';
+                    hangeulFeedback.className = 'feedback neutral';
+                } else {
+                    hangeulFeedback.textContent = 'Not quite right. Try again or click Skip to see the answer.';
+                    hangeulFeedback.className = 'feedback incorrect';
+                }
+            }
+        }
+
+        function validateRomanInput() {
+            const userInput = romanInput.value.trim();
+            const correctAnswer = vocabulary[currentWordIndex].hangeul;
+
+            if (userInput === '') {
+                romanFeedback.textContent = 'Type the Hangeul for the romanized word above';
+                romanFeedback.className = 'feedback neutral';
+            } else if (userInput === correctAnswer) {
+                romanFeedback.textContent = '✓ Correct! Well done!';
+                romanFeedback.className = 'feedback correct';
+            } else {
+                // Don't immediately reveal the answer - give supportive feedback instead
+                if (userInput.length < correctAnswer.length) {
+                    romanFeedback.textContent = 'Keep typing... you can do it!';
+                    romanFeedback.className = 'feedback neutral';
+                } else {
+                    romanFeedback.textContent = 'Not quite right. Try again or click Skip to see the answer.';
+                    romanFeedback.className = 'feedback incorrect';
+                }
+            }
+        }
+
+        function nextWord() {
+            // Show the correct answer when skipping if the input was incorrect
+            const currentInput = currentMode === 'hangeul-to-roman' ? hangeulInput.value.trim() : romanInput.value.trim();
+            const correctAnswer = currentMode === 'hangeul-to-roman' ? vocabulary[currentWordIndex].romanization : vocabulary[currentWordIndex].hangeul;
+            
+            if (currentInput !== '' && currentInput !== correctAnswer) {
+                if (currentMode === 'hangeul-to-roman') {
+                    hangeulFeedback.textContent = `The answer was: "${correctAnswer}"`;
+                    hangeulFeedback.className = 'feedback neutral';
+                } else {
+                    romanFeedback.textContent = `The answer was: "${correctAnswer}"`;
+                    romanFeedback.className = 'feedback neutral';
+                }
+                
+                // Wait a moment before loading the next word
+                setTimeout(() => {
+                    loadNewWord();
+                    // Focus the input after loading new word
+                    setTimeout(() => {
+                        if (currentMode === 'hangeul-to-roman') {
+                            hangeulInput.focus();
+                        } else {
+                            romanInput.focus();
+                        }
+                    }, 100);
+                }, 1500);
+            } else {
+                loadNewWord();
+                // Focus the input after loading new word
+                setTimeout(() => {
+                    if (currentMode === 'hangeul-to-roman') {
+                        hangeulInput.focus();
+                    } else {
+                        romanInput.focus();
+                    }
+                }, 100);
+            }
+        }
+
+        // Start the application
+        init();
+        
+        // Focus the first input on page load
+        setTimeout(() => {
+            hangeulInput.focus();
+        }, 100);
+    </script>
+</body>
+</html>
