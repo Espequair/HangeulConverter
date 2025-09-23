@@ -1,0 +1,490 @@
+{
+  "words": [
+    {
+      "category": "colors",
+      "hangeul": "빨간",
+      "romanization": "ppalgan",
+      "meaning": {
+        "en": "red",
+        "fr": "rouge"
+      }
+    },
+    {
+      "category": "colors",
+      "hangeul": "파란",
+      "romanization": "paran",
+      "meaning": {
+        "en": "blue",
+        "fr": "bleu"
+      }
+    },
+    {
+      "category": "colors",
+      "hangeul": "노란",
+      "romanization": "noran",
+      "meaning": {
+        "en": "yellow",
+        "fr": "jaune"
+      }
+    },
+    {
+      "category": "colors",
+      "hangeul": "초록",
+      "romanization": "chorok",
+      "meaning": {
+        "en": "green",
+        "fr": "vert"
+      }
+    },
+    {
+      "category": "colors",
+      "hangeul": "하얀",
+      "romanization": "hayan",
+      "meaning": {
+        "en": "white",
+        "fr": "blanc"
+      }
+    },
+    {
+      "category": "colors",
+      "hangeul": "검은",
+      "romanization": "geomeun",
+      "meaning": {
+        "en": "black",
+        "fr": "noir"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "하나",
+      "romanization": "hana",
+      "meaning": {
+        "en": "one",
+        "fr": "un"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "둘",
+      "romanization": "dul",
+      "meaning": {
+        "en": "two",
+        "fr": "deux"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "셋",
+      "romanization": "set",
+      "meaning": {
+        "en": "three",
+        "fr": "trois"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "넷",
+      "romanization": "net",
+      "meaning": {
+        "en": "four",
+        "fr": "quatre"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "다섯",
+      "romanization": "daseot",
+      "meaning": {
+        "en": "five",
+        "fr": "cinq"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "여섯",
+      "romanization": "yeoseot",
+      "meaning": {
+        "en": "six",
+        "fr": "six"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "일곱",
+      "romanization": "ilgop",
+      "meaning": {
+        "en": "seven",
+        "fr": "sept"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "여덟",
+      "romanization": "yeodeol",
+      "meaning": {
+        "en": "eight",
+        "fr": "huit"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "아홉",
+      "romanization": "ahop",
+      "meaning": {
+        "en": "nine",
+        "fr": "neuf"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "열",
+      "romanization": "yeol",
+      "meaning": {
+        "en": "ten",
+        "fr": "dix"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "아버지",
+      "romanization": "abeoji",
+      "meaning": {
+        "en": "father",
+        "fr": "père"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "어머니",
+      "romanization": "eomeoni",
+      "meaning": {
+        "en": "mother",
+        "fr": "mère"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "형",
+      "romanization": "hyeong",
+      "meaning": {
+        "en": "older brother (for males)",
+        "fr": "grand frère (pour hommes)"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "누나",
+      "romanization": "nuna",
+      "meaning": {
+        "en": "older sister (for males)",
+        "fr": "grande sœur (pour hommes)"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "언니",
+      "romanization": "eonni",
+      "meaning": {
+        "en": "older sister (for females)",
+        "fr": "grande sœur (pour femmes)"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "오빠",
+      "romanization": "oppa",
+      "meaning": {
+        "en": "older brother (for females)",
+        "fr": "grand frère (pour femmes)"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "동생",
+      "romanization": "dongsaeng",
+      "meaning": {
+        "en": "younger sibling",
+        "fr": "frère/sœur cadet(te)"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "가다",
+      "romanization": "gada",
+      "meaning": {
+        "en": "to go",
+        "fr": "aller"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "오다",
+      "romanization": "oda",
+      "meaning": {
+        "en": "to come",
+        "fr": "venir"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "보다",
+      "romanization": "boda",
+      "meaning": {
+        "en": "to see/watch",
+        "fr": "voir/regarder"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "먹다",
+      "romanization": "meokda",
+      "meaning": {
+        "en": "to eat",
+        "fr": "manger"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "마시다",
+      "romanization": "masida",
+      "meaning": {
+        "en": "to drink",
+        "fr": "boire"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "자다",
+      "romanization": "jada",
+      "meaning": {
+        "en": "to sleep",
+        "fr": "dormir"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "일하다",
+      "romanization": "ilhada",
+      "meaning": {
+        "en": "to work",
+        "fr": "travailler"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "공부하다",
+      "romanization": "gongbuhada",
+      "meaning": {
+        "en": "to study",
+        "fr": "étudier"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "집",
+      "romanization": "jip",
+      "meaning": {
+        "en": "house",
+        "fr": "maison"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "학교",
+      "romanization": "hakgyo",
+      "meaning": {
+        "en": "school",
+        "fr": "école"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "친구",
+      "romanization": "chingu",
+      "meaning": {
+        "en": "friend",
+        "fr": "ami(e)"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "음식",
+      "romanization": "eumsik",
+      "meaning": {
+        "en": "food",
+        "fr": "nourriture"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "물",
+      "romanization": "mul",
+      "meaning": {
+        "en": "water",
+        "fr": "eau"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "책",
+      "romanization": "chaek",
+      "meaning": {
+        "en": "book",
+        "fr": "livre"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "컴퓨터",
+      "romanization": "keompyuteo",
+      "meaning": {
+        "en": "computer",
+        "fr": "ordinateur"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "전화",
+      "romanization": "jeonhwa",
+      "meaning": {
+        "en": "phone",
+        "fr": "téléphone"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "좋다",
+      "romanization": "jota",
+      "meaning": {
+        "en": "good",
+        "fr": "bon"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "나쁘다",
+      "romanization": "nappeuda",
+      "meaning": {
+        "en": "bad",
+        "fr": "mauvais"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "크다",
+      "romanization": "keuda",
+      "meaning": {
+        "en": "big",
+        "fr": "grand"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "작다",
+      "romanization": "jakda",
+      "meaning": {
+        "en": "small",
+        "fr": "petit"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "높다",
+      "romanization": "nopda",
+      "meaning": {
+        "en": "high/tall",
+        "fr": "haut/grand"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "낮다",
+      "romanization": "natda",
+      "meaning": {
+        "en": "low",
+        "fr": "bas"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "빠르다",
+      "romanization": "ppareuda",
+      "meaning": {
+        "en": "fast",
+        "fr": "rapide"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "느리다",
+      "romanization": "neurida",
+      "meaning": {
+        "en": "slow",
+        "fr": "lent"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "월요일",
+      "romanization": "woryoil",
+      "meaning": {
+        "en": "Monday",
+        "fr": "lundi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "화요일",
+      "romanization": "hwayoil",
+      "meaning": {
+        "en": "Tuesday",
+        "fr": "mardi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "수요일",
+      "romanization": "suyoil",
+      "meaning": {
+        "en": "Wednesday",
+        "fr": "mercredi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "목요일",
+      "romanization": "mogyoil",
+      "meaning": {
+        "en": "Thursday",
+        "fr": "jeudi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "금요일",
+      "romanization": "geumyoil",
+      "meaning": {
+        "en": "Friday",
+        "fr": "vendredi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "토요일",
+      "romanization": "toyoil",
+      "meaning": {
+        "en": "Saturday",
+        "fr": "samedi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "일요일",
+      "romanization": "iryoil",
+      "meaning": {
+        "en": "Sunday",
+        "fr": "dimanche"
+      }
+    }
+  ]
+}

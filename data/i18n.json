@@ -1,0 +1,42 @@
+{
+  "en": {
+    "title": "Korean Hangeul Practice",
+    "subtitle": "Master Korean Hangeul and Romanization",
+    "tab_hangeul_to_roman": "Hangeul → Romanization",
+    "tab_roman_to_hangeul": "Romanization → Hangeul",
+    "placeholder_romanization": "Enter romanization...",
+    "placeholder_hangeul": "Enter Hangeul...",
+    "instruction_check_romanization": "Type the romanization and click \"Check Answer\"",
+    "instruction_check_hangeul": "Type the Hangeul and click \"Check Answer\"",
+    "btn_check_answer": "Check Answer",
+    "btn_show_word": "Show Word",
+    "btn_next_word": "Next Word",
+    "feedback_enter_answer": "Please enter an answer first",
+    "feedback_correct": "✓ Correct! Well done!",
+    "feedback_incorrect_try_again": "✗ Incorrect. Try again or click \"Show Word\" to see the answer.",
+    "feedback_answer_is": "The answer is:",
+    "language_selector_label": "Language:",
+    "language_english": "English",
+    "language_french": "Français"
+  },
+  "fr": {
+    "title": "Pratique du Hangeul Coréen",
+    "subtitle": "Maîtrisez le Hangeul et la Romanisation Coréens",
+    "tab_hangeul_to_roman": "Hangeul → Romanisation",
+    "tab_roman_to_hangeul": "Romanisation → Hangeul",
+    "placeholder_romanization": "Entrez la romanisation...",
+    "placeholder_hangeul": "Entrez le Hangeul...",
+    "instruction_check_romanization": "Tapez la romanisation et cliquez sur \"Vérifier la Réponse\"",
+    "instruction_check_hangeul": "Tapez le Hangeul et cliquez sur \"Vérifier la Réponse\"",
+    "btn_check_answer": "Vérifier la Réponse",
+    "btn_show_word": "Montrer le Mot",
+    "btn_next_word": "Mot Suivant",
+    "feedback_enter_answer": "Veuillez d'abord entrer une réponse",
+    "feedback_correct": "✓ Correct ! Bien joué !",
+    "feedback_incorrect_try_again": "✗ Incorrect. Essayez encore ou cliquez sur \"Montrer le Mot\" pour voir la réponse.",
+    "feedback_answer_is": "La réponse est :",
+    "language_selector_label": "Langue :",
+    "language_english": "English",
+    "language_french": "Français"
+  }
+}
