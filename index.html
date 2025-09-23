@@ -245,14 +245,14 @@
             <div id="hangeul-to-roman" class="tab-content">
                 <div class="practice-area">
                     <div class="word-display">
-                        <div class="prompt" id="hangeul-prompt">가</div>
+                        <div class="prompt" id="hangeul-prompt">가다</div>
                         <div class="meaning" id="hangeul-meaning">to go</div>
                     </div>
                     <div class="input-area">
                         <input type="text" class="input-field" id="hangeul-input" placeholder="Enter romanization..." autocomplete="off">
                     </div>
                     <div class="feedback neutral" id="hangeul-feedback">
-                        Type the romanization for the Korean word above
+                        Type the romanization and click "Check Answer"
                     </div>
                     <div class="controls">
                         <button class="btn btn-secondary" id="hangeul-check">Check Answer</button>
@@ -265,14 +265,14 @@
             <div id="roman-to-hangeul" class="tab-content hidden">
                 <div class="practice-area">
                     <div class="word-display">
-                        <div class="prompt" id="roman-prompt">ga</div>
+                        <div class="prompt" id="roman-prompt">gada</div>
                         <div class="meaning" id="roman-meaning">to go</div>
                     </div>
                     <div class="input-area">
                         <input type="text" class="input-field" id="roman-input" placeholder="Enter Hangeul..." autocomplete="off">
                     </div>
                     <div class="feedback neutral" id="roman-feedback">
-                        Type the Hangeul for the romanized word above
+                        Type the Hangeul and click "Check Answer"
                     </div>
                     <div class="controls">
                         <button class="btn btn-secondary" id="roman-check">Check Answer</button>
@@ -285,7 +285,7 @@
     </div>
 
     <script>
-        // Korean vocabulary database with CV and CVC patterns
+        // Korean vocabulary database
         const vocabulary = [
             // Colors
             { hangeul: '빨간', romanization: 'ppalgan', meaning: 'red' },
@@ -358,7 +358,6 @@
 
         // Application state
         let currentWordIndex = 0;
-        let lastWordIndex = -1;
         let currentMode = 'hangeul-to-roman';
 
         // DOM elements
@@ -397,23 +396,15 @@
                 });
             });
 
-            // Check answer button events
+            // Check answer buttons - NO real-time validation!
             hangeulCheck.addEventListener('click', checkHangeulAnswer);
             romanCheck.addEventListener('click', checkRomanAnswer);
             
-            // Show word button events
+            // Show word buttons
             hangeulShow.addEventListener('click', showHangeulAnswer);
             romanShow.addEventListener('click', showRomanAnswer);
 
-            // Enter key support
-            hangeulInput.addEventListener('keypress', (e) => {
-                if (e.key === 'Enter') checkHangeulAnswer();
-            });
-            romanInput.addEventListener('keypress', (e) => {
-                if (e.key === 'Enter') checkRomanAnswer();
-            });
-
-            // Button events
+            // Next word buttons
             hangeulNext.addEventListener('click', nextWord);
             romanNext.addEventListener('click', nextWord);
         }
@@ -432,48 +423,31 @@
             
             // Load new word for the new mode
             loadNewWord();
-            
-            // Focus the appropriate input
-            setTimeout(() => {
-                if (currentMode === 'hangeul-to-roman') {
-                    hangeulInput.focus();
-                } else {
-                    romanInput.focus();
-                }
-            }, 100);
         }
 
         function loadNewWord() {
-            // Get random word, avoiding immediate repetition
-            do {
-                currentWordIndex = Math.floor(Math.random() * vocabulary.length);
-            } while (currentWordIndex === lastWordIndex && vocabulary.length > 1);
-            
-            lastWordIndex = currentWordIndex;
+            // Get random word
+            currentWordIndex = Math.floor(Math.random() * vocabulary.length);
             const word = vocabulary[currentWordIndex];
 
             if (currentMode === 'hangeul-to-roman') {
                 hangeulPrompt.textContent = word.hangeul;
                 hangeulMeaning.textContent = word.meaning;
                 hangeulInput.value = '';
-                hangeulFeedback.textContent = 'Type the romanization for the Korean word above';
+                hangeulFeedback.textContent = 'Type the romanization and click "Check Answer"';
                 hangeulFeedback.className = 'feedback neutral';
             } else {
                 romanPrompt.textContent = word.romanization;
                 romanMeaning.textContent = word.meaning;
                 romanInput.value = '';
-                romanFeedback.textContent = 'Type the Hangeul for the romanized word above';
+                romanFeedback.textContent = 'Type the Hangeul and click "Check Answer"';
                 romanFeedback.className = 'feedback neutral';
             }
         }
 
-        function normalizeInput(input) {
-            return input.trim().toLowerCase().replace(/[-_\s]/g, '');
-        }
-
         function checkHangeulAnswer() {
-            const userInput = normalizeInput(hangeulInput.value);
-            const correctAnswer = normalizeInput(vocabulary[currentWordIndex].romanization);
+            const userInput = hangeulInput.value.trim().toLowerCase();
+            const correctAnswer = vocabulary[currentWordIndex].romanization.toLowerCase();
 
             if (userInput === '') {
                 hangeulFeedback.textContent = 'Please enter an answer first';
@@ -523,23 +497,10 @@
 
         function nextWord() {
             loadNewWord();
-            // Focus the input after loading new word
-            setTimeout(() => {
-                if (currentMode === 'hangeul-to-roman') {
-                    hangeulInput.focus();
-                } else {
-                    romanInput.focus();
-                }
-            }, 100);
         }
 
         // Start the application
         init();
-        
-        // Focus the first input on page load
-        setTimeout(() => {
-            hangeulInput.focus();
-        }, 100);
     </script>
 </body>
 </html>
