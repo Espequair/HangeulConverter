@@ -255,7 +255,8 @@
                         Type the romanization for the Korean word above
                     </div>
                     <div class="controls">
-                        <button class="btn btn-secondary" id="hangeul-skip">Skip</button>
+                        <button class="btn btn-secondary" id="hangeul-check">Check Answer</button>
+                        <button class="btn btn-secondary" id="hangeul-show">Show Word</button>
                         <button class="btn btn-primary" id="hangeul-next">Next Word</button>
                     </div>
                 </div>
@@ -274,7 +275,8 @@
                         Type the Hangeul for the romanized word above
                     </div>
                     <div class="controls">
-                        <button class="btn btn-secondary" id="roman-skip">Skip</button>
+                        <button class="btn btn-secondary" id="roman-check">Check Answer</button>
+                        <button class="btn btn-secondary" id="roman-show">Show Word</button>
                         <button class="btn btn-primary" id="roman-next">Next Word</button>
                     </div>
                 </div>
@@ -368,7 +370,8 @@
         const hangeulMeaning = document.getElementById('hangeul-meaning');
         const hangeulInput = document.getElementById('hangeul-input');
         const hangeulFeedback = document.getElementById('hangeul-feedback');
-        const hangeulSkip = document.getElementById('hangeul-skip');
+        const hangeulCheck = document.getElementById('hangeul-check');
+        const hangeulShow = document.getElementById('hangeul-show');
         const hangeulNext = document.getElementById('hangeul-next');
         
         // Roman to Hangeul elements
@@ -376,7 +379,8 @@
         const romanMeaning = document.getElementById('roman-meaning');
         const romanInput = document.getElementById('roman-input');
         const romanFeedback = document.getElementById('roman-feedback');
-        const romanSkip = document.getElementById('roman-skip');
+        const romanCheck = document.getElementById('roman-check');
+        const romanShow = document.getElementById('roman-show');
         const romanNext = document.getElementById('roman-next');
 
         // Initialize the app
@@ -393,22 +397,24 @@
                 });
             });
 
-            // Input validation
-            hangeulInput.addEventListener('input', validateHangeulInput);
-            romanInput.addEventListener('input', validateRomanInput);
+            // Check answer button events
+            hangeulCheck.addEventListener('click', checkHangeulAnswer);
+            romanCheck.addEventListener('click', checkRomanAnswer);
+            
+            // Show word button events
+            hangeulShow.addEventListener('click', showHangeulAnswer);
+            romanShow.addEventListener('click', showRomanAnswer);
 
             // Enter key support
             hangeulInput.addEventListener('keypress', (e) => {
-                if (e.key === 'Enter') nextWord();
+                if (e.key === 'Enter') checkHangeulAnswer();
             });
             romanInput.addEventListener('keypress', (e) => {
-                if (e.key === 'Enter') nextWord();
+                if (e.key === 'Enter') checkRomanAnswer();
             });
 
             // Button events
-            hangeulSkip.addEventListener('click', nextWord);
             hangeulNext.addEventListener('click', nextWord);
-            romanSkip.addEventListener('click', nextWord);
             romanNext.addEventListener('click', nextWord);
         }
 
@@ -465,87 +471,66 @@
             return input.trim().toLowerCase().replace(/[-_\s]/g, '');
         }
 
-        function validateHangeulInput() {
+        function checkHangeulAnswer() {
             const userInput = normalizeInput(hangeulInput.value);
             const correctAnswer = normalizeInput(vocabulary[currentWordIndex].romanization);
 
             if (userInput === '') {
-                hangeulFeedback.textContent = 'Type the romanization for the Korean word above';
+                hangeulFeedback.textContent = 'Please enter an answer first';
                 hangeulFeedback.className = 'feedback neutral';
-            } else if (userInput === correctAnswer) {
+                return;
+            }
+
+            if (userInput === correctAnswer) {
                 hangeulFeedback.textContent = '✓ Correct! Well done!';
                 hangeulFeedback.className = 'feedback correct';
             } else {
-                // Check for partial matches to give helpful feedback
-                if (correctAnswer.startsWith(userInput) || correctAnswer.includes(userInput)) {
-                    hangeulFeedback.textContent = 'Keep typing... you\'re on the right track!';
-                    hangeulFeedback.className = 'feedback neutral';
-                } else {
-                    hangeulFeedback.textContent = 'Not quite right. Try again or click Skip to see the answer.';
-                    hangeulFeedback.className = 'feedback incorrect';
-                }
+                hangeulFeedback.textContent = '✗ Incorrect. Try again or click "Show Word" to see the answer.';
+                hangeulFeedback.className = 'feedback incorrect';
             }
         }
 
-        function validateRomanInput() {
+        function checkRomanAnswer() {
             const userInput = romanInput.value.trim();
             const correctAnswer = vocabulary[currentWordIndex].hangeul;
 
             if (userInput === '') {
-                romanFeedback.textContent = 'Type the Hangeul for the romanized word above';
+                romanFeedback.textContent = 'Please enter an answer first';
                 romanFeedback.className = 'feedback neutral';
-            } else if (userInput === correctAnswer) {
+                return;
+            }
+
+            if (userInput === correctAnswer) {
                 romanFeedback.textContent = '✓ Correct! Well done!';
                 romanFeedback.className = 'feedback correct';
             } else {
-                // Don't immediately reveal the answer - give supportive feedback instead
-                if (userInput.length < correctAnswer.length) {
-                    romanFeedback.textContent = 'Keep typing... you can do it!';
-                    romanFeedback.className = 'feedback neutral';
-                } else {
-                    romanFeedback.textContent = 'Not quite right. Try again or click Skip to see the answer.';
-                    romanFeedback.className = 'feedback incorrect';
-                }
+                romanFeedback.textContent = '✗ Incorrect. Try again or click "Show Word" to see the answer.';
+                romanFeedback.className = 'feedback incorrect';
             }
         }
 
+        function showHangeulAnswer() {
+            const correctAnswer = vocabulary[currentWordIndex].romanization;
+            hangeulFeedback.textContent = `The answer is: "${correctAnswer}"`;
+            hangeulFeedback.className = 'feedback neutral';
+        }
+
+        function showRomanAnswer() {
+            const correctAnswer = vocabulary[currentWordIndex].hangeul;
+            romanFeedback.textContent = `The answer is: "${correctAnswer}"`;
+            romanFeedback.className = 'feedback neutral';
+        }
+
         function nextWord() {
-            // Show the correct answer when skipping if the input was incorrect
-            const currentInput = currentMode === 'hangeul-to-roman' ? hangeulInput.value.trim() : romanInput.value.trim();
-            const correctAnswer = currentMode === 'hangeul-to-roman' ? vocabulary[currentWordIndex].romanization : vocabulary[currentWordIndex].hangeul;
-            
-            if (currentInput !== '' && currentInput !== correctAnswer) {
+            loadNewWord();
+            // Focus the input after loading new word
+            setTimeout(() => {
                 if (currentMode === 'hangeul-to-roman') {
-                    hangeulFeedback.textContent = `The answer was: "${correctAnswer}"`;
-                    hangeulFeedback.className = 'feedback neutral';
+                    hangeulInput.focus();
                 } else {
-                    romanFeedback.textContent = `The answer was: "${correctAnswer}"`;
-                    romanFeedback.className = 'feedback neutral';
+                    romanInput.focus();
                 }
-                
-                // Wait a moment before loading the next word
-                setTimeout(() => {
-                    loadNewWord();
-                    // Focus the input after loading new word
-                    setTimeout(() => {
-                        if (currentMode === 'hangeul-to-roman') {
-                            hangeulInput.focus();
-                        } else {
-                            romanInput.focus();
-                        }
-                    }, 100);
-                }, 1500);
-            } else {
-                loadNewWord();
-                // Focus the input after loading new word
-                setTimeout(() => {
-                    if (currentMode === 'hangeul-to-roman') {
-                        hangeulInput.focus();
-                    } else {
-                        romanInput.focus();
-                    }
-                }, 100);
-            }
+            }, 100);
         }
 
         // Start the application
