@@ -1,0 +1,9004 @@
+{
+  "words": [
+    {
+      "category": "colors",
+      "hangeul": "빨간",
+      "romanization": "ppalgan",
+      "meaning": {
+        "en": "red",
+        "fr": "rouge"
+      }
+    },
+    {
+      "category": "colors",
+      "hangeul": "파란",
+      "romanization": "paran",
+      "meaning": {
+        "en": "blue",
+        "fr": "bleu"
+      }
+    },
+    {
+      "category": "colors",
+      "hangeul": "노란",
+      "romanization": "noran",
+      "meaning": {
+        "en": "yellow",
+        "fr": "jaune"
+      }
+    },
+    {
+      "category": "colors",
+      "hangeul": "초록",
+      "romanization": "chorok",
+      "meaning": {
+        "en": "green",
+        "fr": "vert"
+      }
+    },
+    {
+      "category": "colors",
+      "hangeul": "하얀",
+      "romanization": "hayan",
+      "meaning": {
+        "en": "white",
+        "fr": "blanc"
+      }
+    },
+    {
+      "category": "colors",
+      "hangeul": "검은",
+      "romanization": "geomeun",
+      "meaning": {
+        "en": "black",
+        "fr": "noir"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "하나",
+      "romanization": "hana",
+      "meaning": {
+        "en": "one",
+        "fr": "un"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "둘",
+      "romanization": "dul",
+      "meaning": {
+        "en": "two",
+        "fr": "deux"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "셋",
+      "romanization": "set",
+      "meaning": {
+        "en": "three",
+        "fr": "trois"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "넷",
+      "romanization": "net",
+      "meaning": {
+        "en": "four",
+        "fr": "quatre"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "다섯",
+      "romanization": "daseot",
+      "meaning": {
+        "en": "five",
+        "fr": "cinq"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "여섯",
+      "romanization": "yeoseot",
+      "meaning": {
+        "en": "six",
+        "fr": "six"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "일곱",
+      "romanization": "ilgop",
+      "meaning": {
+        "en": "seven",
+        "fr": "sept"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "여덟",
+      "romanization": "yeodeol",
+      "meaning": {
+        "en": "eight",
+        "fr": "huit"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "아홉",
+      "romanization": "ahop",
+      "meaning": {
+        "en": "nine",
+        "fr": "neuf"
+      }
+    },
+    {
+      "category": "numbers",
+      "hangeul": "열",
+      "romanization": "yeol",
+      "meaning": {
+        "en": "ten",
+        "fr": "dix"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "아버지",
+      "romanization": "abeoji",
+      "meaning": {
+        "en": "father",
+        "fr": "père"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "어머니",
+      "romanization": "eomeoni",
+      "meaning": {
+        "en": "mother",
+        "fr": "mère"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "형",
+      "romanization": "hyeong",
+      "meaning": {
+        "en": "older brother (for males)",
+        "fr": "grand frère (pour hommes)"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "누나",
+      "romanization": "nuna",
+      "meaning": {
+        "en": "older sister (for males)",
+        "fr": "grande sœur (pour hommes)"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "언니",
+      "romanization": "eonni",
+      "meaning": {
+        "en": "older sister (for females)",
+        "fr": "grande sœur (pour femmes)"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "오빠",
+      "romanization": "oppa",
+      "meaning": {
+        "en": "older brother (for females)",
+        "fr": "grand frère (pour femmes)"
+      }
+    },
+    {
+      "category": "family",
+      "hangeul": "동생",
+      "romanization": "dongsaeng",
+      "meaning": {
+        "en": "younger sibling",
+        "fr": "frère/sœur cadet(te)"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "가다",
+      "romanization": "gada",
+      "meaning": {
+        "en": "to go",
+        "fr": "aller"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "오다",
+      "romanization": "oda",
+      "meaning": {
+        "en": "to come",
+        "fr": "venir"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "보다",
+      "romanization": "boda",
+      "meaning": {
+        "en": "to see/watch",
+        "fr": "voir/regarder"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "먹다",
+      "romanization": "meokda",
+      "meaning": {
+        "en": "to eat",
+        "fr": "manger"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "마시다",
+      "romanization": "masida",
+      "meaning": {
+        "en": "to drink",
+        "fr": "boire"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "자다",
+      "romanization": "jada",
+      "meaning": {
+        "en": "to sleep",
+        "fr": "dormir"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "일하다",
+      "romanization": "ilhada",
+      "meaning": {
+        "en": "to work",
+        "fr": "travailler"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "공부하다",
+      "romanization": "gongbuhada",
+      "meaning": {
+        "en": "to study",
+        "fr": "étudier"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "집",
+      "romanization": "jip",
+      "meaning": {
+        "en": "house",
+        "fr": "maison"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "학교",
+      "romanization": "hakgyo",
+      "meaning": {
+        "en": "school",
+        "fr": "école"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "친구",
+      "romanization": "chingu",
+      "meaning": {
+        "en": "friend",
+        "fr": "ami(e)"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "음식",
+      "romanization": "eumsik",
+      "meaning": {
+        "en": "food",
+        "fr": "nourriture"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "물",
+      "romanization": "mul",
+      "meaning": {
+        "en": "water",
+        "fr": "eau"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "책",
+      "romanization": "chaek",
+      "meaning": {
+        "en": "book",
+        "fr": "livre"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "컴퓨터",
+      "romanization": "keompyuteo",
+      "meaning": {
+        "en": "computer",
+        "fr": "ordinateur"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "전화",
+      "romanization": "jeonhwa",
+      "meaning": {
+        "en": "phone",
+        "fr": "téléphone"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "좋다",
+      "romanization": "jota",
+      "meaning": {
+        "en": "good",
+        "fr": "bon"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "나쁘다",
+      "romanization": "nappeuda",
+      "meaning": {
+        "en": "bad",
+        "fr": "mauvais"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "크다",
+      "romanization": "keuda",
+      "meaning": {
+        "en": "big",
+        "fr": "grand"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "작다",
+      "romanization": "jakda",
+      "meaning": {
+        "en": "small",
+        "fr": "petit"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "높다",
+      "romanization": "nopda",
+      "meaning": {
+        "en": "high/tall",
+        "fr": "haut/grand"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "낮다",
+      "romanization": "natda",
+      "meaning": {
+        "en": "low",
+        "fr": "bas"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "빠르다",
+      "romanization": "ppareuda",
+      "meaning": {
+        "en": "fast",
+        "fr": "rapide"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "느리다",
+      "romanization": "neurida",
+      "meaning": {
+        "en": "slow",
+        "fr": "lent"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "월요일",
+      "romanization": "woryoil",
+      "meaning": {
+        "en": "Monday",
+        "fr": "lundi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "화요일",
+      "romanization": "hwayoil",
+      "meaning": {
+        "en": "Tuesday",
+        "fr": "mardi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "수요일",
+      "romanization": "suyoil",
+      "meaning": {
+        "en": "Wednesday",
+        "fr": "mercredi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "목요일",
+      "romanization": "mogyoil",
+      "meaning": {
+        "en": "Thursday",
+        "fr": "jeudi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "금요일",
+      "romanization": "geumyoil",
+      "meaning": {
+        "en": "Friday",
+        "fr": "vendredi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "토요일",
+      "romanization": "toyoil",
+      "meaning": {
+        "en": "Saturday",
+        "fr": "samedi"
+      }
+    },
+    {
+      "category": "days",
+      "hangeul": "일요일",
+      "romanization": "iryoil",
+      "meaning": {
+        "en": "Sunday",
+        "fr": "dimanche"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "사다",
+      "romanization": "sada",
+      "meaning": {
+        "en": "to buy",
+        "fr": "acheter"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "팔다",
+      "romanization": "palda",
+      "meaning": {
+        "en": "to sell",
+        "fr": "vendre"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "앉다",
+      "romanization": "anda",
+      "meaning": {
+        "en": "to sit",
+        "fr": "s'asseoir"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "서다",
+      "romanization": "seoda",
+      "meaning": {
+        "en": "to stand",
+        "fr": "se lever"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "걷다",
+      "romanization": "geotda",
+      "meaning": {
+        "en": "to walk",
+        "fr": "marcher"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "달리다",
+      "romanization": "dallida",
+      "meaning": {
+        "en": "to run",
+        "fr": "courir"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "듣다",
+      "romanization": "deutda",
+      "meaning": {
+        "en": "to listen",
+        "fr": "écouter"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "쓰다",
+      "romanization": "sseuda",
+      "meaning": {
+        "en": "to write/use",
+        "fr": "écrire/utiliser"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "읽다",
+      "romanization": "ikda",
+      "meaning": {
+        "en": "to read",
+        "fr": "lire"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "만나다",
+      "romanization": "mannada",
+      "meaning": {
+        "en": "to meet",
+        "fr": "rencontrer"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "좋아하다",
+      "romanization": "joahada",
+      "meaning": {
+        "en": "to like",
+        "fr": "aimer"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "사랑하다",
+      "romanization": "saranghada",
+      "meaning": {
+        "en": "to love",
+        "fr": "aimer (amour)"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "싫어하다",
+      "romanization": "silheohada",
+      "meaning": {
+        "en": "to dislike",
+        "fr": "ne pas aimer"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "한국",
+      "romanization": "hanguk",
+      "meaning": {
+        "en": "South Korea",
+        "fr": "Corée du Sud"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "미국",
+      "romanization": "miguk",
+      "meaning": {
+        "en": "USA",
+        "fr": "États-Unis"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "영국",
+      "romanization": "yeongguk",
+      "meaning": {
+        "en": "UK",
+        "fr": "Royaume-Uni"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "프랑스",
+      "romanization": "peurangseu",
+      "meaning": {
+        "en": "France",
+        "fr": "France"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "독일",
+      "romanization": "dogil",
+      "meaning": {
+        "en": "Germany",
+        "fr": "Allemagne"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "중국",
+      "romanization": "jung-guk",
+      "meaning": {
+        "en": "China",
+        "fr": "Chine"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "일본",
+      "romanization": "ilbon",
+      "meaning": {
+        "en": "Japan",
+        "fr": "Japon"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "이탈리아",
+      "romanization": "itallia",
+      "meaning": {
+        "en": "Italy",
+        "fr": "Italie"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "스페인",
+      "romanization": "seupein",
+      "meaning": {
+        "en": "Spain",
+        "fr": "Espagne"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "러시아",
+      "romanization": "reosia",
+      "meaning": {
+        "en": "Russia",
+        "fr": "Russie"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "서울",
+      "romanization": "seoul",
+      "meaning": {
+        "en": "Seoul",
+        "fr": "Séoul"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "부산",
+      "romanization": "busan",
+      "meaning": {
+        "en": "Busan",
+        "fr": "Pusan"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "대구",
+      "romanization": "daegu",
+      "meaning": {
+        "en": "Daegu",
+        "fr": "Daegu"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "인천",
+      "romanization": "incheon",
+      "meaning": {
+        "en": "Incheon",
+        "fr": "Incheon"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "광주",
+      "romanization": "gwangju",
+      "meaning": {
+        "en": "Gwangju",
+        "fr": "Gwangju"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "대전",
+      "romanization": "daejeon",
+      "meaning": {
+        "en": "Daejeon",
+        "fr": "Daejeon"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "울산",
+      "romanization": "ulsan",
+      "meaning": {
+        "en": "Ulsan",
+        "fr": "Ulsan"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "수원",
+      "romanization": "suwon",
+      "meaning": {
+        "en": "Suwon",
+        "fr": "Suwon"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "제주",
+      "romanization": "jeju",
+      "meaning": {
+        "en": "Jeju",
+        "fr": "Jeju"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "김치",
+      "romanization": "kimchi",
+      "meaning": {
+        "en": "kimchi",
+        "fr": "kimchi"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "불고기",
+      "romanization": "bulgogi",
+      "meaning": {
+        "en": "bulgogi",
+        "fr": "bulgogi"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "비빔밥",
+      "romanization": "bibimbap",
+      "meaning": {
+        "en": "bibimbap",
+        "fr": "bibimbap"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "떡볶이",
+      "romanization": "tteokbokki",
+      "meaning": {
+        "en": "tteokbokki",
+        "fr": "tteokbokki"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "삼겹살",
+      "romanization": "samgyeopsal",
+      "meaning": {
+        "en": "pork belly",
+        "fr": "poitrine de porc"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "잡채",
+      "romanization": "japchae",
+      "meaning": {
+        "en": "stir-fried glass noodles",
+        "fr": "nouilles sautées"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "된장찌개",
+      "romanization": "doenjang jjigae",
+      "meaning": {
+        "en": "soybean paste stew",
+        "fr": "ragoût de pâte de soja"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "김밥",
+      "romanization": "gimbap",
+      "meaning": {
+        "en": "gimbap",
+        "fr": "gimbap"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "냉면",
+      "romanization": "naengmyeon",
+      "meaning": {
+        "en": "cold noodles",
+        "fr": "nouilles froides"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "설렁탕",
+      "romanization": "seolleongtang",
+      "meaning": {
+        "en": "ox bone soup",
+        "fr": "soupe d'os de bœuf"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "짜다",
+      "romanization": "jjada",
+      "meaning": {
+        "en": "to squeeze",
+        "fr": "presser"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "찍다",
+      "romanization": "jjikda",
+      "meaning": {
+        "en": "to stamp/take (a photo)",
+        "fr": "tamponner/prendre une photo"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "찢다",
+      "romanization": "jjitda",
+      "meaning": {
+        "en": "to tear",
+        "fr": "déchirer"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "켜다",
+      "romanization": "kyeoda",
+      "meaning": {
+        "en": "to turn on",
+        "fr": "allumer"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "킥보드",
+      "romanization": "kikbodeu",
+      "meaning": {
+        "en": "kickboard/scooter",
+        "fr": "trottinette"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "타다",
+      "romanization": "tada",
+      "meaning": {
+        "en": "to ride",
+        "fr": "monter"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "털다",
+      "romanization": "teolda",
+      "meaning": {
+        "en": "to shake off",
+        "fr": "secouer"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "튀기다",
+      "romanization": "twigida",
+      "meaning": {
+        "en": "to fry",
+        "fr": "frire"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "팔다",
+      "romanization": "palda",
+      "meaning": {
+        "en": "to sell",
+        "fr": "vendre"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "펼치다",
+      "romanization": "pyeolchida",
+      "meaning": {
+        "en": "to spread/open",
+        "fr": "étaler/ouvrir"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "하다",
+      "romanization": "hada",
+      "meaning": {
+        "en": "to do",
+        "fr": "faire"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "흐다",
+      "romanization": "heulda",
+      "meaning": {
+        "en": "to flow",
+        "fr": "couler"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "희다",
+      "romanization": "huida",
+      "meaning": {
+        "en": "to be white",
+        "fr": "être blanc"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "씻다",
+      "romanization": "ssitda",
+      "meaning": {
+        "en": "to wash",
+        "fr": "laver"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "쓰다",
+      "romanization": "sseuda",
+      "meaning": {
+        "en": "to write/use",
+        "fr": "écrire/utiliser"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "타ㅎ다",
+      "romanization": "dummy1",
+      "meaning": {
+        "en": "placeholder 1",
+        "fr": "substitut 1"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy2",
+      "meaning": {
+        "en": "placeholder 2",
+        "fr": "substitut 2"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy3",
+      "meaning": {
+        "en": "placeholder 3",
+        "fr": "substitut 3"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy4",
+      "meaning": {
+        "en": "placeholder 4",
+        "fr": "substitut 4"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy5",
+      "meaning": {
+        "en": "placeholder 5",
+        "fr": "substitut 5"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy6",
+      "meaning": {
+        "en": "placeholder 6",
+        "fr": "substitut 6"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy7",
+      "meaning": {
+        "en": "placeholder 7",
+        "fr": "substitut 7"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "차ㅌ다",
+      "romanization": "dummy8",
+      "meaning": {
+        "en": "placeholder 8",
+        "fr": "substitut 8"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy9",
+      "meaning": {
+        "en": "placeholder 9",
+        "fr": "substitut 9"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅉ다",
+      "romanization": "dummy10",
+      "meaning": {
+        "en": "placeholder 10",
+        "fr": "substitut 10"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy11",
+      "meaning": {
+        "en": "placeholder 11",
+        "fr": "substitut 11"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "자ㅆ다",
+      "romanization": "dummy12",
+      "meaning": {
+        "en": "placeholder 12",
+        "fr": "substitut 12"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy13",
+      "meaning": {
+        "en": "placeholder 13",
+        "fr": "substitut 13"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy14",
+      "meaning": {
+        "en": "placeholder 14",
+        "fr": "substitut 14"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy15",
+      "meaning": {
+        "en": "placeholder 15",
+        "fr": "substitut 15"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy16",
+      "meaning": {
+        "en": "placeholder 16",
+        "fr": "substitut 16"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy17",
+      "meaning": {
+        "en": "placeholder 17",
+        "fr": "substitut 17"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy18",
+      "meaning": {
+        "en": "placeholder 18",
+        "fr": "substitut 18"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy19",
+      "meaning": {
+        "en": "placeholder 19",
+        "fr": "substitut 19"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy20",
+      "meaning": {
+        "en": "placeholder 20",
+        "fr": "substitut 20"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "라ㅎ다",
+      "romanization": "dummy21",
+      "meaning": {
+        "en": "placeholder 21",
+        "fr": "substitut 21"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy22",
+      "meaning": {
+        "en": "placeholder 22",
+        "fr": "substitut 22"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy23",
+      "meaning": {
+        "en": "placeholder 23",
+        "fr": "substitut 23"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy24",
+      "meaning": {
+        "en": "placeholder 24",
+        "fr": "substitut 24"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "차ㅎ다",
+      "romanization": "dummy25",
+      "meaning": {
+        "en": "placeholder 25",
+        "fr": "substitut 25"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy26",
+      "meaning": {
+        "en": "placeholder 26",
+        "fr": "substitut 26"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "차ㅋ다",
+      "romanization": "dummy27",
+      "meaning": {
+        "en": "placeholder 27",
+        "fr": "substitut 27"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy28",
+      "meaning": {
+        "en": "placeholder 28",
+        "fr": "substitut 28"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "차ㅆ다",
+      "romanization": "dummy29",
+      "meaning": {
+        "en": "placeholder 29",
+        "fr": "substitut 29"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "다ㅆ다",
+      "romanization": "dummy30",
+      "meaning": {
+        "en": "placeholder 30",
+        "fr": "substitut 30"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "가ㅎ다",
+      "romanization": "dummy31",
+      "meaning": {
+        "en": "placeholder 31",
+        "fr": "substitut 31"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy32",
+      "meaning": {
+        "en": "placeholder 32",
+        "fr": "substitut 32"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy33",
+      "meaning": {
+        "en": "placeholder 33",
+        "fr": "substitut 33"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "라ㅎ다",
+      "romanization": "dummy34",
+      "meaning": {
+        "en": "placeholder 34",
+        "fr": "substitut 34"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "바ㅉ다",
+      "romanization": "dummy35",
+      "meaning": {
+        "en": "placeholder 35",
+        "fr": "substitut 35"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy36",
+      "meaning": {
+        "en": "placeholder 36",
+        "fr": "substitut 36"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "자ㅋ다",
+      "romanization": "dummy37",
+      "meaning": {
+        "en": "placeholder 37",
+        "fr": "substitut 37"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy38",
+      "meaning": {
+        "en": "placeholder 38",
+        "fr": "substitut 38"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "파ㅋ다",
+      "romanization": "dummy39",
+      "meaning": {
+        "en": "placeholder 39",
+        "fr": "substitut 39"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy40",
+      "meaning": {
+        "en": "placeholder 40",
+        "fr": "substitut 40"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy41",
+      "meaning": {
+        "en": "placeholder 41",
+        "fr": "substitut 41"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy42",
+      "meaning": {
+        "en": "placeholder 42",
+        "fr": "substitut 42"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "다ㅎ다",
+      "romanization": "dummy43",
+      "meaning": {
+        "en": "placeholder 43",
+        "fr": "substitut 43"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy44",
+      "meaning": {
+        "en": "placeholder 44",
+        "fr": "substitut 44"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅍ다",
+      "romanization": "dummy45",
+      "meaning": {
+        "en": "placeholder 45",
+        "fr": "substitut 45"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "자ㅎ다",
+      "romanization": "dummy46",
+      "meaning": {
+        "en": "placeholder 46",
+        "fr": "substitut 46"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy47",
+      "meaning": {
+        "en": "placeholder 47",
+        "fr": "substitut 47"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "라ㅉ다",
+      "romanization": "dummy48",
+      "meaning": {
+        "en": "placeholder 48",
+        "fr": "substitut 48"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy49",
+      "meaning": {
+        "en": "placeholder 49",
+        "fr": "substitut 49"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy50",
+      "meaning": {
+        "en": "placeholder 50",
+        "fr": "substitut 50"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "차ㅎ다",
+      "romanization": "dummy51",
+      "meaning": {
+        "en": "placeholder 51",
+        "fr": "substitut 51"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "다ㅌ다",
+      "romanization": "dummy52",
+      "meaning": {
+        "en": "placeholder 52",
+        "fr": "substitut 52"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy53",
+      "meaning": {
+        "en": "placeholder 53",
+        "fr": "substitut 53"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "하ㅋ다",
+      "romanization": "dummy54",
+      "meaning": {
+        "en": "placeholder 54",
+        "fr": "substitut 54"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy55",
+      "meaning": {
+        "en": "placeholder 55",
+        "fr": "substitut 55"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "카ㅍ다",
+      "romanization": "dummy56",
+      "meaning": {
+        "en": "placeholder 56",
+        "fr": "substitut 56"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy57",
+      "meaning": {
+        "en": "placeholder 57",
+        "fr": "substitut 57"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "바ㅉ다",
+      "romanization": "dummy58",
+      "meaning": {
+        "en": "placeholder 58",
+        "fr": "substitut 58"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "나ㅍ다",
+      "romanization": "dummy59",
+      "meaning": {
+        "en": "placeholder 59",
+        "fr": "substitut 59"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy60",
+      "meaning": {
+        "en": "placeholder 60",
+        "fr": "substitut 60"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy61",
+      "meaning": {
+        "en": "placeholder 61",
+        "fr": "substitut 61"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "파ㅎ다",
+      "romanization": "dummy62",
+      "meaning": {
+        "en": "placeholder 62",
+        "fr": "substitut 62"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy63",
+      "meaning": {
+        "en": "placeholder 63",
+        "fr": "substitut 63"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "가ㅎ다",
+      "romanization": "dummy64",
+      "meaning": {
+        "en": "placeholder 64",
+        "fr": "substitut 64"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy65",
+      "meaning": {
+        "en": "placeholder 65",
+        "fr": "substitut 65"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy66",
+      "meaning": {
+        "en": "placeholder 66",
+        "fr": "substitut 66"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy67",
+      "meaning": {
+        "en": "placeholder 67",
+        "fr": "substitut 67"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy68",
+      "meaning": {
+        "en": "placeholder 68",
+        "fr": "substitut 68"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "하ㅆ다",
+      "romanization": "dummy69",
+      "meaning": {
+        "en": "placeholder 69",
+        "fr": "substitut 69"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy70",
+      "meaning": {
+        "en": "placeholder 70",
+        "fr": "substitut 70"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy71",
+      "meaning": {
+        "en": "placeholder 71",
+        "fr": "substitut 71"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "사ㅍ다",
+      "romanization": "dummy72",
+      "meaning": {
+        "en": "placeholder 72",
+        "fr": "substitut 72"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "사ㅍ다",
+      "romanization": "dummy73",
+      "meaning": {
+        "en": "placeholder 73",
+        "fr": "substitut 73"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy74",
+      "meaning": {
+        "en": "placeholder 74",
+        "fr": "substitut 74"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy75",
+      "meaning": {
+        "en": "placeholder 75",
+        "fr": "substitut 75"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy76",
+      "meaning": {
+        "en": "placeholder 76",
+        "fr": "substitut 76"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy77",
+      "meaning": {
+        "en": "placeholder 77",
+        "fr": "substitut 77"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy78",
+      "meaning": {
+        "en": "placeholder 78",
+        "fr": "substitut 78"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "라ㅋ다",
+      "romanization": "dummy79",
+      "meaning": {
+        "en": "placeholder 79",
+        "fr": "substitut 79"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "타ㅆ다",
+      "romanization": "dummy80",
+      "meaning": {
+        "en": "placeholder 80",
+        "fr": "substitut 80"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy81",
+      "meaning": {
+        "en": "placeholder 81",
+        "fr": "substitut 81"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "카ㅋ다",
+      "romanization": "dummy82",
+      "meaning": {
+        "en": "placeholder 82",
+        "fr": "substitut 82"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy83",
+      "meaning": {
+        "en": "placeholder 83",
+        "fr": "substitut 83"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "파ㅎ다",
+      "romanization": "dummy84",
+      "meaning": {
+        "en": "placeholder 84",
+        "fr": "substitut 84"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "타ㅌ다",
+      "romanization": "dummy85",
+      "meaning": {
+        "en": "placeholder 85",
+        "fr": "substitut 85"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy86",
+      "meaning": {
+        "en": "placeholder 86",
+        "fr": "substitut 86"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy87",
+      "meaning": {
+        "en": "placeholder 87",
+        "fr": "substitut 87"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "자ㅉ다",
+      "romanization": "dummy88",
+      "meaning": {
+        "en": "placeholder 88",
+        "fr": "substitut 88"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "카ㅋ다",
+      "romanization": "dummy89",
+      "meaning": {
+        "en": "placeholder 89",
+        "fr": "substitut 89"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "가ㅉ다",
+      "romanization": "dummy90",
+      "meaning": {
+        "en": "placeholder 90",
+        "fr": "substitut 90"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy91",
+      "meaning": {
+        "en": "placeholder 91",
+        "fr": "substitut 91"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy92",
+      "meaning": {
+        "en": "placeholder 92",
+        "fr": "substitut 92"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy93",
+      "meaning": {
+        "en": "placeholder 93",
+        "fr": "substitut 93"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "가ㅎ다",
+      "romanization": "dummy94",
+      "meaning": {
+        "en": "placeholder 94",
+        "fr": "substitut 94"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "자ㅋ다",
+      "romanization": "dummy95",
+      "meaning": {
+        "en": "placeholder 95",
+        "fr": "substitut 95"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "다ㅍ다",
+      "romanization": "dummy96",
+      "meaning": {
+        "en": "placeholder 96",
+        "fr": "substitut 96"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "가ㅌ다",
+      "romanization": "dummy97",
+      "meaning": {
+        "en": "placeholder 97",
+        "fr": "substitut 97"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy98",
+      "meaning": {
+        "en": "placeholder 98",
+        "fr": "substitut 98"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "파ㅍ다",
+      "romanization": "dummy99",
+      "meaning": {
+        "en": "placeholder 99",
+        "fr": "substitut 99"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "가ㅉ다",
+      "romanization": "dummy100",
+      "meaning": {
+        "en": "placeholder 100",
+        "fr": "substitut 100"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "카ㅋ다",
+      "romanization": "dummy101",
+      "meaning": {
+        "en": "placeholder 101",
+        "fr": "substitut 101"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy102",
+      "meaning": {
+        "en": "placeholder 102",
+        "fr": "substitut 102"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy103",
+      "meaning": {
+        "en": "placeholder 103",
+        "fr": "substitut 103"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy104",
+      "meaning": {
+        "en": "placeholder 104",
+        "fr": "substitut 104"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "가ㅌ다",
+      "romanization": "dummy105",
+      "meaning": {
+        "en": "placeholder 105",
+        "fr": "substitut 105"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "하ㅍ다",
+      "romanization": "dummy106",
+      "meaning": {
+        "en": "placeholder 106",
+        "fr": "substitut 106"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "파ㅍ다",
+      "romanization": "dummy107",
+      "meaning": {
+        "en": "placeholder 107",
+        "fr": "substitut 107"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy108",
+      "meaning": {
+        "en": "placeholder 108",
+        "fr": "substitut 108"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅋ다",
+      "romanization": "dummy109",
+      "meaning": {
+        "en": "placeholder 109",
+        "fr": "substitut 109"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy110",
+      "meaning": {
+        "en": "placeholder 110",
+        "fr": "substitut 110"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy111",
+      "meaning": {
+        "en": "placeholder 111",
+        "fr": "substitut 111"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "가ㅎ다",
+      "romanization": "dummy112",
+      "meaning": {
+        "en": "placeholder 112",
+        "fr": "substitut 112"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "자ㅎ다",
+      "romanization": "dummy113",
+      "meaning": {
+        "en": "placeholder 113",
+        "fr": "substitut 113"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "하ㅆ다",
+      "romanization": "dummy114",
+      "meaning": {
+        "en": "placeholder 114",
+        "fr": "substitut 114"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy115",
+      "meaning": {
+        "en": "placeholder 115",
+        "fr": "substitut 115"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "다ㅌ다",
+      "romanization": "dummy116",
+      "meaning": {
+        "en": "placeholder 116",
+        "fr": "substitut 116"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy117",
+      "meaning": {
+        "en": "placeholder 117",
+        "fr": "substitut 117"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy118",
+      "meaning": {
+        "en": "placeholder 118",
+        "fr": "substitut 118"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy119",
+      "meaning": {
+        "en": "placeholder 119",
+        "fr": "substitut 119"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "자ㅍ다",
+      "romanization": "dummy120",
+      "meaning": {
+        "en": "placeholder 120",
+        "fr": "substitut 120"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy121",
+      "meaning": {
+        "en": "placeholder 121",
+        "fr": "substitut 121"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "나ㅎ다",
+      "romanization": "dummy122",
+      "meaning": {
+        "en": "placeholder 122",
+        "fr": "substitut 122"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy123",
+      "meaning": {
+        "en": "placeholder 123",
+        "fr": "substitut 123"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy124",
+      "meaning": {
+        "en": "placeholder 124",
+        "fr": "substitut 124"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "가ㅌ다",
+      "romanization": "dummy125",
+      "meaning": {
+        "en": "placeholder 125",
+        "fr": "substitut 125"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy126",
+      "meaning": {
+        "en": "placeholder 126",
+        "fr": "substitut 126"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy127",
+      "meaning": {
+        "en": "placeholder 127",
+        "fr": "substitut 127"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy128",
+      "meaning": {
+        "en": "placeholder 128",
+        "fr": "substitut 128"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy129",
+      "meaning": {
+        "en": "placeholder 129",
+        "fr": "substitut 129"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy130",
+      "meaning": {
+        "en": "placeholder 130",
+        "fr": "substitut 130"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy131",
+      "meaning": {
+        "en": "placeholder 131",
+        "fr": "substitut 131"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy132",
+      "meaning": {
+        "en": "placeholder 132",
+        "fr": "substitut 132"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy133",
+      "meaning": {
+        "en": "placeholder 133",
+        "fr": "substitut 133"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy134",
+      "meaning": {
+        "en": "placeholder 134",
+        "fr": "substitut 134"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "바ㅍ다",
+      "romanization": "dummy135",
+      "meaning": {
+        "en": "placeholder 135",
+        "fr": "substitut 135"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy136",
+      "meaning": {
+        "en": "placeholder 136",
+        "fr": "substitut 136"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy137",
+      "meaning": {
+        "en": "placeholder 137",
+        "fr": "substitut 137"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy138",
+      "meaning": {
+        "en": "placeholder 138",
+        "fr": "substitut 138"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "다ㅌ다",
+      "romanization": "dummy139",
+      "meaning": {
+        "en": "placeholder 139",
+        "fr": "substitut 139"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy140",
+      "meaning": {
+        "en": "placeholder 140",
+        "fr": "substitut 140"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "바ㅍ다",
+      "romanization": "dummy141",
+      "meaning": {
+        "en": "placeholder 141",
+        "fr": "substitut 141"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy142",
+      "meaning": {
+        "en": "placeholder 142",
+        "fr": "substitut 142"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy143",
+      "meaning": {
+        "en": "placeholder 143",
+        "fr": "substitut 143"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy144",
+      "meaning": {
+        "en": "placeholder 144",
+        "fr": "substitut 144"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "차ㅌ다",
+      "romanization": "dummy145",
+      "meaning": {
+        "en": "placeholder 145",
+        "fr": "substitut 145"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy146",
+      "meaning": {
+        "en": "placeholder 146",
+        "fr": "substitut 146"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅉ다",
+      "romanization": "dummy147",
+      "meaning": {
+        "en": "placeholder 147",
+        "fr": "substitut 147"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy148",
+      "meaning": {
+        "en": "placeholder 148",
+        "fr": "substitut 148"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅎ다",
+      "romanization": "dummy149",
+      "meaning": {
+        "en": "placeholder 149",
+        "fr": "substitut 149"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "차ㅆ다",
+      "romanization": "dummy150",
+      "meaning": {
+        "en": "placeholder 150",
+        "fr": "substitut 150"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy151",
+      "meaning": {
+        "en": "placeholder 151",
+        "fr": "substitut 151"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "다ㅆ다",
+      "romanization": "dummy152",
+      "meaning": {
+        "en": "placeholder 152",
+        "fr": "substitut 152"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy153",
+      "meaning": {
+        "en": "placeholder 153",
+        "fr": "substitut 153"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy154",
+      "meaning": {
+        "en": "placeholder 154",
+        "fr": "substitut 154"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy155",
+      "meaning": {
+        "en": "placeholder 155",
+        "fr": "substitut 155"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy156",
+      "meaning": {
+        "en": "placeholder 156",
+        "fr": "substitut 156"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy157",
+      "meaning": {
+        "en": "placeholder 157",
+        "fr": "substitut 157"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "하ㅋ다",
+      "romanization": "dummy158",
+      "meaning": {
+        "en": "placeholder 158",
+        "fr": "substitut 158"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy159",
+      "meaning": {
+        "en": "placeholder 159",
+        "fr": "substitut 159"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy160",
+      "meaning": {
+        "en": "placeholder 160",
+        "fr": "substitut 160"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy161",
+      "meaning": {
+        "en": "placeholder 161",
+        "fr": "substitut 161"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "나ㅆ다",
+      "romanization": "dummy162",
+      "meaning": {
+        "en": "placeholder 162",
+        "fr": "substitut 162"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy163",
+      "meaning": {
+        "en": "placeholder 163",
+        "fr": "substitut 163"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "차ㅌ다",
+      "romanization": "dummy164",
+      "meaning": {
+        "en": "placeholder 164",
+        "fr": "substitut 164"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy165",
+      "meaning": {
+        "en": "placeholder 165",
+        "fr": "substitut 165"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "차ㅌ다",
+      "romanization": "dummy166",
+      "meaning": {
+        "en": "placeholder 166",
+        "fr": "substitut 166"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy167",
+      "meaning": {
+        "en": "placeholder 167",
+        "fr": "substitut 167"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy168",
+      "meaning": {
+        "en": "placeholder 168",
+        "fr": "substitut 168"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy169",
+      "meaning": {
+        "en": "placeholder 169",
+        "fr": "substitut 169"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "자ㅉ다",
+      "romanization": "dummy170",
+      "meaning": {
+        "en": "placeholder 170",
+        "fr": "substitut 170"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy171",
+      "meaning": {
+        "en": "placeholder 171",
+        "fr": "substitut 171"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "가ㅉ다",
+      "romanization": "dummy172",
+      "meaning": {
+        "en": "placeholder 172",
+        "fr": "substitut 172"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy173",
+      "meaning": {
+        "en": "placeholder 173",
+        "fr": "substitut 173"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy174",
+      "meaning": {
+        "en": "placeholder 174",
+        "fr": "substitut 174"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy175",
+      "meaning": {
+        "en": "placeholder 175",
+        "fr": "substitut 175"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy176",
+      "meaning": {
+        "en": "placeholder 176",
+        "fr": "substitut 176"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "바ㅌ다",
+      "romanization": "dummy177",
+      "meaning": {
+        "en": "placeholder 177",
+        "fr": "substitut 177"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy178",
+      "meaning": {
+        "en": "placeholder 178",
+        "fr": "substitut 178"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy179",
+      "meaning": {
+        "en": "placeholder 179",
+        "fr": "substitut 179"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy180",
+      "meaning": {
+        "en": "placeholder 180",
+        "fr": "substitut 180"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy181",
+      "meaning": {
+        "en": "placeholder 181",
+        "fr": "substitut 181"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy182",
+      "meaning": {
+        "en": "placeholder 182",
+        "fr": "substitut 182"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy183",
+      "meaning": {
+        "en": "placeholder 183",
+        "fr": "substitut 183"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "나ㅎ다",
+      "romanization": "dummy184",
+      "meaning": {
+        "en": "placeholder 184",
+        "fr": "substitut 184"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "가ㅆ다",
+      "romanization": "dummy185",
+      "meaning": {
+        "en": "placeholder 185",
+        "fr": "substitut 185"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy186",
+      "meaning": {
+        "en": "placeholder 186",
+        "fr": "substitut 186"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy187",
+      "meaning": {
+        "en": "placeholder 187",
+        "fr": "substitut 187"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy188",
+      "meaning": {
+        "en": "placeholder 188",
+        "fr": "substitut 188"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy189",
+      "meaning": {
+        "en": "placeholder 189",
+        "fr": "substitut 189"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy190",
+      "meaning": {
+        "en": "placeholder 190",
+        "fr": "substitut 190"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy191",
+      "meaning": {
+        "en": "placeholder 191",
+        "fr": "substitut 191"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy192",
+      "meaning": {
+        "en": "placeholder 192",
+        "fr": "substitut 192"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy193",
+      "meaning": {
+        "en": "placeholder 193",
+        "fr": "substitut 193"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "자ㅆ다",
+      "romanization": "dummy194",
+      "meaning": {
+        "en": "placeholder 194",
+        "fr": "substitut 194"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy195",
+      "meaning": {
+        "en": "placeholder 195",
+        "fr": "substitut 195"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy196",
+      "meaning": {
+        "en": "placeholder 196",
+        "fr": "substitut 196"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy197",
+      "meaning": {
+        "en": "placeholder 197",
+        "fr": "substitut 197"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "다ㅌ다",
+      "romanization": "dummy198",
+      "meaning": {
+        "en": "placeholder 198",
+        "fr": "substitut 198"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "다ㅆ다",
+      "romanization": "dummy199",
+      "meaning": {
+        "en": "placeholder 199",
+        "fr": "substitut 199"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "바ㅍ다",
+      "romanization": "dummy200",
+      "meaning": {
+        "en": "placeholder 200",
+        "fr": "substitut 200"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy201",
+      "meaning": {
+        "en": "placeholder 201",
+        "fr": "substitut 201"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "차ㅎ다",
+      "romanization": "dummy202",
+      "meaning": {
+        "en": "placeholder 202",
+        "fr": "substitut 202"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "자ㅋ다",
+      "romanization": "dummy203",
+      "meaning": {
+        "en": "placeholder 203",
+        "fr": "substitut 203"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy204",
+      "meaning": {
+        "en": "placeholder 204",
+        "fr": "substitut 204"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅍ다",
+      "romanization": "dummy205",
+      "meaning": {
+        "en": "placeholder 205",
+        "fr": "substitut 205"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy206",
+      "meaning": {
+        "en": "placeholder 206",
+        "fr": "substitut 206"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy207",
+      "meaning": {
+        "en": "placeholder 207",
+        "fr": "substitut 207"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy208",
+      "meaning": {
+        "en": "placeholder 208",
+        "fr": "substitut 208"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "파ㅎ다",
+      "romanization": "dummy209",
+      "meaning": {
+        "en": "placeholder 209",
+        "fr": "substitut 209"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy210",
+      "meaning": {
+        "en": "placeholder 210",
+        "fr": "substitut 210"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy211",
+      "meaning": {
+        "en": "placeholder 211",
+        "fr": "substitut 211"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "바ㅉ다",
+      "romanization": "dummy212",
+      "meaning": {
+        "en": "placeholder 212",
+        "fr": "substitut 212"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy213",
+      "meaning": {
+        "en": "placeholder 213",
+        "fr": "substitut 213"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "라ㅍ다",
+      "romanization": "dummy214",
+      "meaning": {
+        "en": "placeholder 214",
+        "fr": "substitut 214"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "차ㅆ다",
+      "romanization": "dummy215",
+      "meaning": {
+        "en": "placeholder 215",
+        "fr": "substitut 215"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy216",
+      "meaning": {
+        "en": "placeholder 216",
+        "fr": "substitut 216"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "파ㅋ다",
+      "romanization": "dummy217",
+      "meaning": {
+        "en": "placeholder 217",
+        "fr": "substitut 217"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy218",
+      "meaning": {
+        "en": "placeholder 218",
+        "fr": "substitut 218"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "다ㅌ다",
+      "romanization": "dummy219",
+      "meaning": {
+        "en": "placeholder 219",
+        "fr": "substitut 219"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy220",
+      "meaning": {
+        "en": "placeholder 220",
+        "fr": "substitut 220"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy221",
+      "meaning": {
+        "en": "placeholder 221",
+        "fr": "substitut 221"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy222",
+      "meaning": {
+        "en": "placeholder 222",
+        "fr": "substitut 222"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy223",
+      "meaning": {
+        "en": "placeholder 223",
+        "fr": "substitut 223"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅍ다",
+      "romanization": "dummy224",
+      "meaning": {
+        "en": "placeholder 224",
+        "fr": "substitut 224"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "가ㅌ다",
+      "romanization": "dummy225",
+      "meaning": {
+        "en": "placeholder 225",
+        "fr": "substitut 225"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy226",
+      "meaning": {
+        "en": "placeholder 226",
+        "fr": "substitut 226"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "자ㅎ다",
+      "romanization": "dummy227",
+      "meaning": {
+        "en": "placeholder 227",
+        "fr": "substitut 227"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy228",
+      "meaning": {
+        "en": "placeholder 228",
+        "fr": "substitut 228"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy229",
+      "meaning": {
+        "en": "placeholder 229",
+        "fr": "substitut 229"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "라ㅆ다",
+      "romanization": "dummy230",
+      "meaning": {
+        "en": "placeholder 230",
+        "fr": "substitut 230"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy231",
+      "meaning": {
+        "en": "placeholder 231",
+        "fr": "substitut 231"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "라ㅋ다",
+      "romanization": "dummy232",
+      "meaning": {
+        "en": "placeholder 232",
+        "fr": "substitut 232"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy233",
+      "meaning": {
+        "en": "placeholder 233",
+        "fr": "substitut 233"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy234",
+      "meaning": {
+        "en": "placeholder 234",
+        "fr": "substitut 234"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy235",
+      "meaning": {
+        "en": "placeholder 235",
+        "fr": "substitut 235"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy236",
+      "meaning": {
+        "en": "placeholder 236",
+        "fr": "substitut 236"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "나ㅎ다",
+      "romanization": "dummy237",
+      "meaning": {
+        "en": "placeholder 237",
+        "fr": "substitut 237"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy238",
+      "meaning": {
+        "en": "placeholder 238",
+        "fr": "substitut 238"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "자ㅉ다",
+      "romanization": "dummy239",
+      "meaning": {
+        "en": "placeholder 239",
+        "fr": "substitut 239"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "차ㅎ다",
+      "romanization": "dummy240",
+      "meaning": {
+        "en": "placeholder 240",
+        "fr": "substitut 240"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅌ다",
+      "romanization": "dummy241",
+      "meaning": {
+        "en": "placeholder 241",
+        "fr": "substitut 241"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "자ㅆ다",
+      "romanization": "dummy242",
+      "meaning": {
+        "en": "placeholder 242",
+        "fr": "substitut 242"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy243",
+      "meaning": {
+        "en": "placeholder 243",
+        "fr": "substitut 243"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy244",
+      "meaning": {
+        "en": "placeholder 244",
+        "fr": "substitut 244"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy245",
+      "meaning": {
+        "en": "placeholder 245",
+        "fr": "substitut 245"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy246",
+      "meaning": {
+        "en": "placeholder 246",
+        "fr": "substitut 246"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "가ㅉ다",
+      "romanization": "dummy247",
+      "meaning": {
+        "en": "placeholder 247",
+        "fr": "substitut 247"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "파ㅎ다",
+      "romanization": "dummy248",
+      "meaning": {
+        "en": "placeholder 248",
+        "fr": "substitut 248"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "나ㅆ다",
+      "romanization": "dummy249",
+      "meaning": {
+        "en": "placeholder 249",
+        "fr": "substitut 249"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "자ㅎ다",
+      "romanization": "dummy250",
+      "meaning": {
+        "en": "placeholder 250",
+        "fr": "substitut 250"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy251",
+      "meaning": {
+        "en": "placeholder 251",
+        "fr": "substitut 251"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "라ㅎ다",
+      "romanization": "dummy252",
+      "meaning": {
+        "en": "placeholder 252",
+        "fr": "substitut 252"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "차ㅋ다",
+      "romanization": "dummy253",
+      "meaning": {
+        "en": "placeholder 253",
+        "fr": "substitut 253"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy254",
+      "meaning": {
+        "en": "placeholder 254",
+        "fr": "substitut 254"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy255",
+      "meaning": {
+        "en": "placeholder 255",
+        "fr": "substitut 255"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "나ㅎ다",
+      "romanization": "dummy256",
+      "meaning": {
+        "en": "placeholder 256",
+        "fr": "substitut 256"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "파ㅎ다",
+      "romanization": "dummy257",
+      "meaning": {
+        "en": "placeholder 257",
+        "fr": "substitut 257"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "하ㅆ다",
+      "romanization": "dummy258",
+      "meaning": {
+        "en": "placeholder 258",
+        "fr": "substitut 258"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy259",
+      "meaning": {
+        "en": "placeholder 259",
+        "fr": "substitut 259"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "라ㅎ다",
+      "romanization": "dummy260",
+      "meaning": {
+        "en": "placeholder 260",
+        "fr": "substitut 260"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy261",
+      "meaning": {
+        "en": "placeholder 261",
+        "fr": "substitut 261"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy262",
+      "meaning": {
+        "en": "placeholder 262",
+        "fr": "substitut 262"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "파ㅋ다",
+      "romanization": "dummy263",
+      "meaning": {
+        "en": "placeholder 263",
+        "fr": "substitut 263"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "카ㅋ다",
+      "romanization": "dummy264",
+      "meaning": {
+        "en": "placeholder 264",
+        "fr": "substitut 264"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "가ㅆ다",
+      "romanization": "dummy265",
+      "meaning": {
+        "en": "placeholder 265",
+        "fr": "substitut 265"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "나ㅎ다",
+      "romanization": "dummy266",
+      "meaning": {
+        "en": "placeholder 266",
+        "fr": "substitut 266"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy267",
+      "meaning": {
+        "en": "placeholder 267",
+        "fr": "substitut 267"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy268",
+      "meaning": {
+        "en": "placeholder 268",
+        "fr": "substitut 268"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy269",
+      "meaning": {
+        "en": "placeholder 269",
+        "fr": "substitut 269"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "차ㅎ다",
+      "romanization": "dummy270",
+      "meaning": {
+        "en": "placeholder 270",
+        "fr": "substitut 270"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "파ㅋ다",
+      "romanization": "dummy271",
+      "meaning": {
+        "en": "placeholder 271",
+        "fr": "substitut 271"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "바ㅉ다",
+      "romanization": "dummy272",
+      "meaning": {
+        "en": "placeholder 272",
+        "fr": "substitut 272"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy273",
+      "meaning": {
+        "en": "placeholder 273",
+        "fr": "substitut 273"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy274",
+      "meaning": {
+        "en": "placeholder 274",
+        "fr": "substitut 274"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy275",
+      "meaning": {
+        "en": "placeholder 275",
+        "fr": "substitut 275"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy276",
+      "meaning": {
+        "en": "placeholder 276",
+        "fr": "substitut 276"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "타ㅌ다",
+      "romanization": "dummy277",
+      "meaning": {
+        "en": "placeholder 277",
+        "fr": "substitut 277"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy278",
+      "meaning": {
+        "en": "placeholder 278",
+        "fr": "substitut 278"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "가ㅎ다",
+      "romanization": "dummy279",
+      "meaning": {
+        "en": "placeholder 279",
+        "fr": "substitut 279"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "차ㅍ다",
+      "romanization": "dummy280",
+      "meaning": {
+        "en": "placeholder 280",
+        "fr": "substitut 280"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "다ㅍ다",
+      "romanization": "dummy281",
+      "meaning": {
+        "en": "placeholder 281",
+        "fr": "substitut 281"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅍ다",
+      "romanization": "dummy282",
+      "meaning": {
+        "en": "placeholder 282",
+        "fr": "substitut 282"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "라ㅋ다",
+      "romanization": "dummy283",
+      "meaning": {
+        "en": "placeholder 283",
+        "fr": "substitut 283"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅆ다",
+      "romanization": "dummy284",
+      "meaning": {
+        "en": "placeholder 284",
+        "fr": "substitut 284"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅉ다",
+      "romanization": "dummy285",
+      "meaning": {
+        "en": "placeholder 285",
+        "fr": "substitut 285"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "다ㅆ다",
+      "romanization": "dummy286",
+      "meaning": {
+        "en": "placeholder 286",
+        "fr": "substitut 286"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy287",
+      "meaning": {
+        "en": "placeholder 287",
+        "fr": "substitut 287"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "다ㅌ다",
+      "romanization": "dummy288",
+      "meaning": {
+        "en": "placeholder 288",
+        "fr": "substitut 288"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy289",
+      "meaning": {
+        "en": "placeholder 289",
+        "fr": "substitut 289"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy290",
+      "meaning": {
+        "en": "placeholder 290",
+        "fr": "substitut 290"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy291",
+      "meaning": {
+        "en": "placeholder 291",
+        "fr": "substitut 291"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy292",
+      "meaning": {
+        "en": "placeholder 292",
+        "fr": "substitut 292"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy293",
+      "meaning": {
+        "en": "placeholder 293",
+        "fr": "substitut 293"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy294",
+      "meaning": {
+        "en": "placeholder 294",
+        "fr": "substitut 294"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy295",
+      "meaning": {
+        "en": "placeholder 295",
+        "fr": "substitut 295"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy296",
+      "meaning": {
+        "en": "placeholder 296",
+        "fr": "substitut 296"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy297",
+      "meaning": {
+        "en": "placeholder 297",
+        "fr": "substitut 297"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy298",
+      "meaning": {
+        "en": "placeholder 298",
+        "fr": "substitut 298"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy299",
+      "meaning": {
+        "en": "placeholder 299",
+        "fr": "substitut 299"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "차ㅎ다",
+      "romanization": "dummy300",
+      "meaning": {
+        "en": "placeholder 300",
+        "fr": "substitut 300"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy301",
+      "meaning": {
+        "en": "placeholder 301",
+        "fr": "substitut 301"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy302",
+      "meaning": {
+        "en": "placeholder 302",
+        "fr": "substitut 302"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy303",
+      "meaning": {
+        "en": "placeholder 303",
+        "fr": "substitut 303"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "자ㅍ다",
+      "romanization": "dummy304",
+      "meaning": {
+        "en": "placeholder 304",
+        "fr": "substitut 304"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅍ다",
+      "romanization": "dummy305",
+      "meaning": {
+        "en": "placeholder 305",
+        "fr": "substitut 305"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "차ㅆ다",
+      "romanization": "dummy306",
+      "meaning": {
+        "en": "placeholder 306",
+        "fr": "substitut 306"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy307",
+      "meaning": {
+        "en": "placeholder 307",
+        "fr": "substitut 307"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "차ㅍ다",
+      "romanization": "dummy308",
+      "meaning": {
+        "en": "placeholder 308",
+        "fr": "substitut 308"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy309",
+      "meaning": {
+        "en": "placeholder 309",
+        "fr": "substitut 309"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "나ㅆ다",
+      "romanization": "dummy310",
+      "meaning": {
+        "en": "placeholder 310",
+        "fr": "substitut 310"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy311",
+      "meaning": {
+        "en": "placeholder 311",
+        "fr": "substitut 311"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "하ㅆ다",
+      "romanization": "dummy312",
+      "meaning": {
+        "en": "placeholder 312",
+        "fr": "substitut 312"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "파ㅍ다",
+      "romanization": "dummy313",
+      "meaning": {
+        "en": "placeholder 313",
+        "fr": "substitut 313"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy314",
+      "meaning": {
+        "en": "placeholder 314",
+        "fr": "substitut 314"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "차ㅌ다",
+      "romanization": "dummy315",
+      "meaning": {
+        "en": "placeholder 315",
+        "fr": "substitut 315"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "자ㅋ다",
+      "romanization": "dummy316",
+      "meaning": {
+        "en": "placeholder 316",
+        "fr": "substitut 316"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy317",
+      "meaning": {
+        "en": "placeholder 317",
+        "fr": "substitut 317"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy318",
+      "meaning": {
+        "en": "placeholder 318",
+        "fr": "substitut 318"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy319",
+      "meaning": {
+        "en": "placeholder 319",
+        "fr": "substitut 319"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy320",
+      "meaning": {
+        "en": "placeholder 320",
+        "fr": "substitut 320"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅍ다",
+      "romanization": "dummy321",
+      "meaning": {
+        "en": "placeholder 321",
+        "fr": "substitut 321"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "카ㅍ다",
+      "romanization": "dummy322",
+      "meaning": {
+        "en": "placeholder 322",
+        "fr": "substitut 322"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "라ㅆ다",
+      "romanization": "dummy323",
+      "meaning": {
+        "en": "placeholder 323",
+        "fr": "substitut 323"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy324",
+      "meaning": {
+        "en": "placeholder 324",
+        "fr": "substitut 324"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "차ㅌ다",
+      "romanization": "dummy325",
+      "meaning": {
+        "en": "placeholder 325",
+        "fr": "substitut 325"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "다ㅎ다",
+      "romanization": "dummy326",
+      "meaning": {
+        "en": "placeholder 326",
+        "fr": "substitut 326"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy327",
+      "meaning": {
+        "en": "placeholder 327",
+        "fr": "substitut 327"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "나ㅍ다",
+      "romanization": "dummy328",
+      "meaning": {
+        "en": "placeholder 328",
+        "fr": "substitut 328"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy329",
+      "meaning": {
+        "en": "placeholder 329",
+        "fr": "substitut 329"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy330",
+      "meaning": {
+        "en": "placeholder 330",
+        "fr": "substitut 330"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy331",
+      "meaning": {
+        "en": "placeholder 331",
+        "fr": "substitut 331"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy332",
+      "meaning": {
+        "en": "placeholder 332",
+        "fr": "substitut 332"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "차ㅍ다",
+      "romanization": "dummy333",
+      "meaning": {
+        "en": "placeholder 333",
+        "fr": "substitut 333"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy334",
+      "meaning": {
+        "en": "placeholder 334",
+        "fr": "substitut 334"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "하ㅆ다",
+      "romanization": "dummy335",
+      "meaning": {
+        "en": "placeholder 335",
+        "fr": "substitut 335"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy336",
+      "meaning": {
+        "en": "placeholder 336",
+        "fr": "substitut 336"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "자ㅆ다",
+      "romanization": "dummy337",
+      "meaning": {
+        "en": "placeholder 337",
+        "fr": "substitut 337"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy338",
+      "meaning": {
+        "en": "placeholder 338",
+        "fr": "substitut 338"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy339",
+      "meaning": {
+        "en": "placeholder 339",
+        "fr": "substitut 339"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy340",
+      "meaning": {
+        "en": "placeholder 340",
+        "fr": "substitut 340"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy341",
+      "meaning": {
+        "en": "placeholder 341",
+        "fr": "substitut 341"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "차ㅆ다",
+      "romanization": "dummy342",
+      "meaning": {
+        "en": "placeholder 342",
+        "fr": "substitut 342"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy343",
+      "meaning": {
+        "en": "placeholder 343",
+        "fr": "substitut 343"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy344",
+      "meaning": {
+        "en": "placeholder 344",
+        "fr": "substitut 344"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "다ㅆ다",
+      "romanization": "dummy345",
+      "meaning": {
+        "en": "placeholder 345",
+        "fr": "substitut 345"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "하ㅋ다",
+      "romanization": "dummy346",
+      "meaning": {
+        "en": "placeholder 346",
+        "fr": "substitut 346"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy347",
+      "meaning": {
+        "en": "placeholder 347",
+        "fr": "substitut 347"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "자ㅎ다",
+      "romanization": "dummy348",
+      "meaning": {
+        "en": "placeholder 348",
+        "fr": "substitut 348"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy349",
+      "meaning": {
+        "en": "placeholder 349",
+        "fr": "substitut 349"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy350",
+      "meaning": {
+        "en": "placeholder 350",
+        "fr": "substitut 350"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy351",
+      "meaning": {
+        "en": "placeholder 351",
+        "fr": "substitut 351"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy352",
+      "meaning": {
+        "en": "placeholder 352",
+        "fr": "substitut 352"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy353",
+      "meaning": {
+        "en": "placeholder 353",
+        "fr": "substitut 353"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "파ㅋ다",
+      "romanization": "dummy354",
+      "meaning": {
+        "en": "placeholder 354",
+        "fr": "substitut 354"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy355",
+      "meaning": {
+        "en": "placeholder 355",
+        "fr": "substitut 355"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy356",
+      "meaning": {
+        "en": "placeholder 356",
+        "fr": "substitut 356"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy357",
+      "meaning": {
+        "en": "placeholder 357",
+        "fr": "substitut 357"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "자ㅉ다",
+      "romanization": "dummy358",
+      "meaning": {
+        "en": "placeholder 358",
+        "fr": "substitut 358"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy359",
+      "meaning": {
+        "en": "placeholder 359",
+        "fr": "substitut 359"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy360",
+      "meaning": {
+        "en": "placeholder 360",
+        "fr": "substitut 360"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy361",
+      "meaning": {
+        "en": "placeholder 361",
+        "fr": "substitut 361"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "다ㅍ다",
+      "romanization": "dummy362",
+      "meaning": {
+        "en": "placeholder 362",
+        "fr": "substitut 362"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy363",
+      "meaning": {
+        "en": "placeholder 363",
+        "fr": "substitut 363"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "다ㅍ다",
+      "romanization": "dummy364",
+      "meaning": {
+        "en": "placeholder 364",
+        "fr": "substitut 364"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "바ㅍ다",
+      "romanization": "dummy365",
+      "meaning": {
+        "en": "placeholder 365",
+        "fr": "substitut 365"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "자ㅍ다",
+      "romanization": "dummy366",
+      "meaning": {
+        "en": "placeholder 366",
+        "fr": "substitut 366"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy367",
+      "meaning": {
+        "en": "placeholder 367",
+        "fr": "substitut 367"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy368",
+      "meaning": {
+        "en": "placeholder 368",
+        "fr": "substitut 368"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy369",
+      "meaning": {
+        "en": "placeholder 369",
+        "fr": "substitut 369"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "타ㅆ다",
+      "romanization": "dummy370",
+      "meaning": {
+        "en": "placeholder 370",
+        "fr": "substitut 370"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy371",
+      "meaning": {
+        "en": "placeholder 371",
+        "fr": "substitut 371"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "나ㅆ다",
+      "romanization": "dummy372",
+      "meaning": {
+        "en": "placeholder 372",
+        "fr": "substitut 372"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "차ㅎ다",
+      "romanization": "dummy373",
+      "meaning": {
+        "en": "placeholder 373",
+        "fr": "substitut 373"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "라ㅆ다",
+      "romanization": "dummy374",
+      "meaning": {
+        "en": "placeholder 374",
+        "fr": "substitut 374"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "나ㅆ다",
+      "romanization": "dummy375",
+      "meaning": {
+        "en": "placeholder 375",
+        "fr": "substitut 375"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy376",
+      "meaning": {
+        "en": "placeholder 376",
+        "fr": "substitut 376"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy377",
+      "meaning": {
+        "en": "placeholder 377",
+        "fr": "substitut 377"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy378",
+      "meaning": {
+        "en": "placeholder 378",
+        "fr": "substitut 378"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "나ㅆ다",
+      "romanization": "dummy379",
+      "meaning": {
+        "en": "placeholder 379",
+        "fr": "substitut 379"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy380",
+      "meaning": {
+        "en": "placeholder 380",
+        "fr": "substitut 380"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy381",
+      "meaning": {
+        "en": "placeholder 381",
+        "fr": "substitut 381"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "자ㅍ다",
+      "romanization": "dummy382",
+      "meaning": {
+        "en": "placeholder 382",
+        "fr": "substitut 382"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy383",
+      "meaning": {
+        "en": "placeholder 383",
+        "fr": "substitut 383"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy384",
+      "meaning": {
+        "en": "placeholder 384",
+        "fr": "substitut 384"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy385",
+      "meaning": {
+        "en": "placeholder 385",
+        "fr": "substitut 385"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "타ㅎ다",
+      "romanization": "dummy386",
+      "meaning": {
+        "en": "placeholder 386",
+        "fr": "substitut 386"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "나ㅎ다",
+      "romanization": "dummy387",
+      "meaning": {
+        "en": "placeholder 387",
+        "fr": "substitut 387"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "자ㅋ다",
+      "romanization": "dummy388",
+      "meaning": {
+        "en": "placeholder 388",
+        "fr": "substitut 388"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy389",
+      "meaning": {
+        "en": "placeholder 389",
+        "fr": "substitut 389"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "라ㅍ다",
+      "romanization": "dummy390",
+      "meaning": {
+        "en": "placeholder 390",
+        "fr": "substitut 390"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy391",
+      "meaning": {
+        "en": "placeholder 391",
+        "fr": "substitut 391"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy392",
+      "meaning": {
+        "en": "placeholder 392",
+        "fr": "substitut 392"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅎ다",
+      "romanization": "dummy393",
+      "meaning": {
+        "en": "placeholder 393",
+        "fr": "substitut 393"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy394",
+      "meaning": {
+        "en": "placeholder 394",
+        "fr": "substitut 394"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy395",
+      "meaning": {
+        "en": "placeholder 395",
+        "fr": "substitut 395"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "가ㅎ다",
+      "romanization": "dummy396",
+      "meaning": {
+        "en": "placeholder 396",
+        "fr": "substitut 396"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "라ㅎ다",
+      "romanization": "dummy397",
+      "meaning": {
+        "en": "placeholder 397",
+        "fr": "substitut 397"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "다ㅍ다",
+      "romanization": "dummy398",
+      "meaning": {
+        "en": "placeholder 398",
+        "fr": "substitut 398"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy399",
+      "meaning": {
+        "en": "placeholder 399",
+        "fr": "substitut 399"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy400",
+      "meaning": {
+        "en": "placeholder 400",
+        "fr": "substitut 400"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "타ㅎ다",
+      "romanization": "dummy401",
+      "meaning": {
+        "en": "placeholder 401",
+        "fr": "substitut 401"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy402",
+      "meaning": {
+        "en": "placeholder 402",
+        "fr": "substitut 402"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy403",
+      "meaning": {
+        "en": "placeholder 403",
+        "fr": "substitut 403"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "하ㅋ다",
+      "romanization": "dummy404",
+      "meaning": {
+        "en": "placeholder 404",
+        "fr": "substitut 404"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "타ㅆ다",
+      "romanization": "dummy405",
+      "meaning": {
+        "en": "placeholder 405",
+        "fr": "substitut 405"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy406",
+      "meaning": {
+        "en": "placeholder 406",
+        "fr": "substitut 406"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy407",
+      "meaning": {
+        "en": "placeholder 407",
+        "fr": "substitut 407"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy408",
+      "meaning": {
+        "en": "placeholder 408",
+        "fr": "substitut 408"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "자ㅎ다",
+      "romanization": "dummy409",
+      "meaning": {
+        "en": "placeholder 409",
+        "fr": "substitut 409"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy410",
+      "meaning": {
+        "en": "placeholder 410",
+        "fr": "substitut 410"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy411",
+      "meaning": {
+        "en": "placeholder 411",
+        "fr": "substitut 411"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy412",
+      "meaning": {
+        "en": "placeholder 412",
+        "fr": "substitut 412"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "다ㅆ다",
+      "romanization": "dummy413",
+      "meaning": {
+        "en": "placeholder 413",
+        "fr": "substitut 413"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy414",
+      "meaning": {
+        "en": "placeholder 414",
+        "fr": "substitut 414"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy415",
+      "meaning": {
+        "en": "placeholder 415",
+        "fr": "substitut 415"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy416",
+      "meaning": {
+        "en": "placeholder 416",
+        "fr": "substitut 416"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy417",
+      "meaning": {
+        "en": "placeholder 417",
+        "fr": "substitut 417"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy418",
+      "meaning": {
+        "en": "placeholder 418",
+        "fr": "substitut 418"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "하ㅍ다",
+      "romanization": "dummy419",
+      "meaning": {
+        "en": "placeholder 419",
+        "fr": "substitut 419"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "타ㅆ다",
+      "romanization": "dummy420",
+      "meaning": {
+        "en": "placeholder 420",
+        "fr": "substitut 420"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy421",
+      "meaning": {
+        "en": "placeholder 421",
+        "fr": "substitut 421"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "차ㅎ다",
+      "romanization": "dummy422",
+      "meaning": {
+        "en": "placeholder 422",
+        "fr": "substitut 422"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy423",
+      "meaning": {
+        "en": "placeholder 423",
+        "fr": "substitut 423"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy424",
+      "meaning": {
+        "en": "placeholder 424",
+        "fr": "substitut 424"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy425",
+      "meaning": {
+        "en": "placeholder 425",
+        "fr": "substitut 425"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy426",
+      "meaning": {
+        "en": "placeholder 426",
+        "fr": "substitut 426"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "바ㅍ다",
+      "romanization": "dummy427",
+      "meaning": {
+        "en": "placeholder 427",
+        "fr": "substitut 427"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy428",
+      "meaning": {
+        "en": "placeholder 428",
+        "fr": "substitut 428"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy429",
+      "meaning": {
+        "en": "placeholder 429",
+        "fr": "substitut 429"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅌ다",
+      "romanization": "dummy430",
+      "meaning": {
+        "en": "placeholder 430",
+        "fr": "substitut 430"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy431",
+      "meaning": {
+        "en": "placeholder 431",
+        "fr": "substitut 431"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy432",
+      "meaning": {
+        "en": "placeholder 432",
+        "fr": "substitut 432"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "나ㅍ다",
+      "romanization": "dummy433",
+      "meaning": {
+        "en": "placeholder 433",
+        "fr": "substitut 433"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy434",
+      "meaning": {
+        "en": "placeholder 434",
+        "fr": "substitut 434"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "바ㅌ다",
+      "romanization": "dummy435",
+      "meaning": {
+        "en": "placeholder 435",
+        "fr": "substitut 435"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "라ㅉ다",
+      "romanization": "dummy436",
+      "meaning": {
+        "en": "placeholder 436",
+        "fr": "substitut 436"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy437",
+      "meaning": {
+        "en": "placeholder 437",
+        "fr": "substitut 437"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "사ㅍ다",
+      "romanization": "dummy438",
+      "meaning": {
+        "en": "placeholder 438",
+        "fr": "substitut 438"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy439",
+      "meaning": {
+        "en": "placeholder 439",
+        "fr": "substitut 439"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy440",
+      "meaning": {
+        "en": "placeholder 440",
+        "fr": "substitut 440"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "자ㅍ다",
+      "romanization": "dummy441",
+      "meaning": {
+        "en": "placeholder 441",
+        "fr": "substitut 441"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy442",
+      "meaning": {
+        "en": "placeholder 442",
+        "fr": "substitut 442"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy443",
+      "meaning": {
+        "en": "placeholder 443",
+        "fr": "substitut 443"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy444",
+      "meaning": {
+        "en": "placeholder 444",
+        "fr": "substitut 444"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy445",
+      "meaning": {
+        "en": "placeholder 445",
+        "fr": "substitut 445"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅎ다",
+      "romanization": "dummy446",
+      "meaning": {
+        "en": "placeholder 446",
+        "fr": "substitut 446"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy447",
+      "meaning": {
+        "en": "placeholder 447",
+        "fr": "substitut 447"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "자ㅆ다",
+      "romanization": "dummy448",
+      "meaning": {
+        "en": "placeholder 448",
+        "fr": "substitut 448"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "차ㅋ다",
+      "romanization": "dummy449",
+      "meaning": {
+        "en": "placeholder 449",
+        "fr": "substitut 449"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy450",
+      "meaning": {
+        "en": "placeholder 450",
+        "fr": "substitut 450"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy451",
+      "meaning": {
+        "en": "placeholder 451",
+        "fr": "substitut 451"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy452",
+      "meaning": {
+        "en": "placeholder 452",
+        "fr": "substitut 452"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy453",
+      "meaning": {
+        "en": "placeholder 453",
+        "fr": "substitut 453"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "카ㅋ다",
+      "romanization": "dummy454",
+      "meaning": {
+        "en": "placeholder 454",
+        "fr": "substitut 454"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy455",
+      "meaning": {
+        "en": "placeholder 455",
+        "fr": "substitut 455"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "바ㅌ다",
+      "romanization": "dummy456",
+      "meaning": {
+        "en": "placeholder 456",
+        "fr": "substitut 456"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy457",
+      "meaning": {
+        "en": "placeholder 457",
+        "fr": "substitut 457"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "다ㅍ다",
+      "romanization": "dummy458",
+      "meaning": {
+        "en": "placeholder 458",
+        "fr": "substitut 458"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "하ㅆ다",
+      "romanization": "dummy459",
+      "meaning": {
+        "en": "placeholder 459",
+        "fr": "substitut 459"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "차ㅍ다",
+      "romanization": "dummy460",
+      "meaning": {
+        "en": "placeholder 460",
+        "fr": "substitut 460"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "나ㅆ다",
+      "romanization": "dummy461",
+      "meaning": {
+        "en": "placeholder 461",
+        "fr": "substitut 461"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy462",
+      "meaning": {
+        "en": "placeholder 462",
+        "fr": "substitut 462"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy463",
+      "meaning": {
+        "en": "placeholder 463",
+        "fr": "substitut 463"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy464",
+      "meaning": {
+        "en": "placeholder 464",
+        "fr": "substitut 464"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "자ㅋ다",
+      "romanization": "dummy465",
+      "meaning": {
+        "en": "placeholder 465",
+        "fr": "substitut 465"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "다ㅍ다",
+      "romanization": "dummy466",
+      "meaning": {
+        "en": "placeholder 466",
+        "fr": "substitut 466"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "카ㅋ다",
+      "romanization": "dummy467",
+      "meaning": {
+        "en": "placeholder 467",
+        "fr": "substitut 467"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy468",
+      "meaning": {
+        "en": "placeholder 468",
+        "fr": "substitut 468"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy469",
+      "meaning": {
+        "en": "placeholder 469",
+        "fr": "substitut 469"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "가ㅆ다",
+      "romanization": "dummy470",
+      "meaning": {
+        "en": "placeholder 470",
+        "fr": "substitut 470"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "차ㅍ다",
+      "romanization": "dummy471",
+      "meaning": {
+        "en": "placeholder 471",
+        "fr": "substitut 471"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy472",
+      "meaning": {
+        "en": "placeholder 472",
+        "fr": "substitut 472"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy473",
+      "meaning": {
+        "en": "placeholder 473",
+        "fr": "substitut 473"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "파ㅎ다",
+      "romanization": "dummy474",
+      "meaning": {
+        "en": "placeholder 474",
+        "fr": "substitut 474"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "가ㅆ다",
+      "romanization": "dummy475",
+      "meaning": {
+        "en": "placeholder 475",
+        "fr": "substitut 475"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "사ㅍ다",
+      "romanization": "dummy476",
+      "meaning": {
+        "en": "placeholder 476",
+        "fr": "substitut 476"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "차ㅍ다",
+      "romanization": "dummy477",
+      "meaning": {
+        "en": "placeholder 477",
+        "fr": "substitut 477"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy478",
+      "meaning": {
+        "en": "placeholder 478",
+        "fr": "substitut 478"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "카ㅋ다",
+      "romanization": "dummy479",
+      "meaning": {
+        "en": "placeholder 479",
+        "fr": "substitut 479"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy480",
+      "meaning": {
+        "en": "placeholder 480",
+        "fr": "substitut 480"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy481",
+      "meaning": {
+        "en": "placeholder 481",
+        "fr": "substitut 481"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "카ㅍ다",
+      "romanization": "dummy482",
+      "meaning": {
+        "en": "placeholder 482",
+        "fr": "substitut 482"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "라ㅍ다",
+      "romanization": "dummy483",
+      "meaning": {
+        "en": "placeholder 483",
+        "fr": "substitut 483"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "카ㅋ다",
+      "romanization": "dummy484",
+      "meaning": {
+        "en": "placeholder 484",
+        "fr": "substitut 484"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy485",
+      "meaning": {
+        "en": "placeholder 485",
+        "fr": "substitut 485"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy486",
+      "meaning": {
+        "en": "placeholder 486",
+        "fr": "substitut 486"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy487",
+      "meaning": {
+        "en": "placeholder 487",
+        "fr": "substitut 487"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "자ㅆ다",
+      "romanization": "dummy488",
+      "meaning": {
+        "en": "placeholder 488",
+        "fr": "substitut 488"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy489",
+      "meaning": {
+        "en": "placeholder 489",
+        "fr": "substitut 489"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy490",
+      "meaning": {
+        "en": "placeholder 490",
+        "fr": "substitut 490"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy491",
+      "meaning": {
+        "en": "placeholder 491",
+        "fr": "substitut 491"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅍ다",
+      "romanization": "dummy492",
+      "meaning": {
+        "en": "placeholder 492",
+        "fr": "substitut 492"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "하ㅆ다",
+      "romanization": "dummy493",
+      "meaning": {
+        "en": "placeholder 493",
+        "fr": "substitut 493"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy494",
+      "meaning": {
+        "en": "placeholder 494",
+        "fr": "substitut 494"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy495",
+      "meaning": {
+        "en": "placeholder 495",
+        "fr": "substitut 495"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy496",
+      "meaning": {
+        "en": "placeholder 496",
+        "fr": "substitut 496"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy497",
+      "meaning": {
+        "en": "placeholder 497",
+        "fr": "substitut 497"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "나ㅆ다",
+      "romanization": "dummy498",
+      "meaning": {
+        "en": "placeholder 498",
+        "fr": "substitut 498"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy499",
+      "meaning": {
+        "en": "placeholder 499",
+        "fr": "substitut 499"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy500",
+      "meaning": {
+        "en": "placeholder 500",
+        "fr": "substitut 500"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy501",
+      "meaning": {
+        "en": "placeholder 501",
+        "fr": "substitut 501"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "자ㅎ다",
+      "romanization": "dummy502",
+      "meaning": {
+        "en": "placeholder 502",
+        "fr": "substitut 502"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy503",
+      "meaning": {
+        "en": "placeholder 503",
+        "fr": "substitut 503"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "파ㅋ다",
+      "romanization": "dummy504",
+      "meaning": {
+        "en": "placeholder 504",
+        "fr": "substitut 504"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy505",
+      "meaning": {
+        "en": "placeholder 505",
+        "fr": "substitut 505"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "차ㅍ다",
+      "romanization": "dummy506",
+      "meaning": {
+        "en": "placeholder 506",
+        "fr": "substitut 506"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "자ㅆ다",
+      "romanization": "dummy507",
+      "meaning": {
+        "en": "placeholder 507",
+        "fr": "substitut 507"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy508",
+      "meaning": {
+        "en": "placeholder 508",
+        "fr": "substitut 508"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy509",
+      "meaning": {
+        "en": "placeholder 509",
+        "fr": "substitut 509"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "다ㅌ다",
+      "romanization": "dummy510",
+      "meaning": {
+        "en": "placeholder 510",
+        "fr": "substitut 510"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "차ㅍ다",
+      "romanization": "dummy511",
+      "meaning": {
+        "en": "placeholder 511",
+        "fr": "substitut 511"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy512",
+      "meaning": {
+        "en": "placeholder 512",
+        "fr": "substitut 512"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "바ㅍ다",
+      "romanization": "dummy513",
+      "meaning": {
+        "en": "placeholder 513",
+        "fr": "substitut 513"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "카ㅍ다",
+      "romanization": "dummy514",
+      "meaning": {
+        "en": "placeholder 514",
+        "fr": "substitut 514"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy515",
+      "meaning": {
+        "en": "placeholder 515",
+        "fr": "substitut 515"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy516",
+      "meaning": {
+        "en": "placeholder 516",
+        "fr": "substitut 516"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy517",
+      "meaning": {
+        "en": "placeholder 517",
+        "fr": "substitut 517"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy518",
+      "meaning": {
+        "en": "placeholder 518",
+        "fr": "substitut 518"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy519",
+      "meaning": {
+        "en": "placeholder 519",
+        "fr": "substitut 519"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "나ㅍ다",
+      "romanization": "dummy520",
+      "meaning": {
+        "en": "placeholder 520",
+        "fr": "substitut 520"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy521",
+      "meaning": {
+        "en": "placeholder 521",
+        "fr": "substitut 521"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "파ㅎ다",
+      "romanization": "dummy522",
+      "meaning": {
+        "en": "placeholder 522",
+        "fr": "substitut 522"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy523",
+      "meaning": {
+        "en": "placeholder 523",
+        "fr": "substitut 523"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "차ㅆ다",
+      "romanization": "dummy524",
+      "meaning": {
+        "en": "placeholder 524",
+        "fr": "substitut 524"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "가ㅆ다",
+      "romanization": "dummy525",
+      "meaning": {
+        "en": "placeholder 525",
+        "fr": "substitut 525"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "차ㅋ다",
+      "romanization": "dummy526",
+      "meaning": {
+        "en": "placeholder 526",
+        "fr": "substitut 526"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy527",
+      "meaning": {
+        "en": "placeholder 527",
+        "fr": "substitut 527"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy528",
+      "meaning": {
+        "en": "placeholder 528",
+        "fr": "substitut 528"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy529",
+      "meaning": {
+        "en": "placeholder 529",
+        "fr": "substitut 529"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy530",
+      "meaning": {
+        "en": "placeholder 530",
+        "fr": "substitut 530"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "라ㅍ다",
+      "romanization": "dummy531",
+      "meaning": {
+        "en": "placeholder 531",
+        "fr": "substitut 531"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "나ㅍ다",
+      "romanization": "dummy532",
+      "meaning": {
+        "en": "placeholder 532",
+        "fr": "substitut 532"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy533",
+      "meaning": {
+        "en": "placeholder 533",
+        "fr": "substitut 533"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy534",
+      "meaning": {
+        "en": "placeholder 534",
+        "fr": "substitut 534"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "가ㅌ다",
+      "romanization": "dummy535",
+      "meaning": {
+        "en": "placeholder 535",
+        "fr": "substitut 535"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy536",
+      "meaning": {
+        "en": "placeholder 536",
+        "fr": "substitut 536"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "자ㅋ다",
+      "romanization": "dummy537",
+      "meaning": {
+        "en": "placeholder 537",
+        "fr": "substitut 537"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy538",
+      "meaning": {
+        "en": "placeholder 538",
+        "fr": "substitut 538"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "하ㅋ다",
+      "romanization": "dummy539",
+      "meaning": {
+        "en": "placeholder 539",
+        "fr": "substitut 539"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy540",
+      "meaning": {
+        "en": "placeholder 540",
+        "fr": "substitut 540"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "자ㅍ다",
+      "romanization": "dummy541",
+      "meaning": {
+        "en": "placeholder 541",
+        "fr": "substitut 541"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "다ㅎ다",
+      "romanization": "dummy542",
+      "meaning": {
+        "en": "placeholder 542",
+        "fr": "substitut 542"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "가ㅎ다",
+      "romanization": "dummy543",
+      "meaning": {
+        "en": "placeholder 543",
+        "fr": "substitut 543"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy544",
+      "meaning": {
+        "en": "placeholder 544",
+        "fr": "substitut 544"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "자ㅋ다",
+      "romanization": "dummy545",
+      "meaning": {
+        "en": "placeholder 545",
+        "fr": "substitut 545"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "차ㅋ다",
+      "romanization": "dummy546",
+      "meaning": {
+        "en": "placeholder 546",
+        "fr": "substitut 546"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "차ㅌ다",
+      "romanization": "dummy547",
+      "meaning": {
+        "en": "placeholder 547",
+        "fr": "substitut 547"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy548",
+      "meaning": {
+        "en": "placeholder 548",
+        "fr": "substitut 548"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "차ㅋ다",
+      "romanization": "dummy549",
+      "meaning": {
+        "en": "placeholder 549",
+        "fr": "substitut 549"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "라ㅍ다",
+      "romanization": "dummy550",
+      "meaning": {
+        "en": "placeholder 550",
+        "fr": "substitut 550"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "나ㅎ다",
+      "romanization": "dummy551",
+      "meaning": {
+        "en": "placeholder 551",
+        "fr": "substitut 551"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅆ다",
+      "romanization": "dummy552",
+      "meaning": {
+        "en": "placeholder 552",
+        "fr": "substitut 552"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅉ다",
+      "romanization": "dummy553",
+      "meaning": {
+        "en": "placeholder 553",
+        "fr": "substitut 553"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "나ㅆ다",
+      "romanization": "dummy554",
+      "meaning": {
+        "en": "placeholder 554",
+        "fr": "substitut 554"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy555",
+      "meaning": {
+        "en": "placeholder 555",
+        "fr": "substitut 555"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy556",
+      "meaning": {
+        "en": "placeholder 556",
+        "fr": "substitut 556"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy557",
+      "meaning": {
+        "en": "placeholder 557",
+        "fr": "substitut 557"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy558",
+      "meaning": {
+        "en": "placeholder 558",
+        "fr": "substitut 558"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅌ다",
+      "romanization": "dummy559",
+      "meaning": {
+        "en": "placeholder 559",
+        "fr": "substitut 559"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy560",
+      "meaning": {
+        "en": "placeholder 560",
+        "fr": "substitut 560"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "바ㅉ다",
+      "romanization": "dummy561",
+      "meaning": {
+        "en": "placeholder 561",
+        "fr": "substitut 561"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "라ㅎ다",
+      "romanization": "dummy562",
+      "meaning": {
+        "en": "placeholder 562",
+        "fr": "substitut 562"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy563",
+      "meaning": {
+        "en": "placeholder 563",
+        "fr": "substitut 563"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "차ㅋ다",
+      "romanization": "dummy564",
+      "meaning": {
+        "en": "placeholder 564",
+        "fr": "substitut 564"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "타ㅌ다",
+      "romanization": "dummy565",
+      "meaning": {
+        "en": "placeholder 565",
+        "fr": "substitut 565"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy566",
+      "meaning": {
+        "en": "placeholder 566",
+        "fr": "substitut 566"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy567",
+      "meaning": {
+        "en": "placeholder 567",
+        "fr": "substitut 567"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy568",
+      "meaning": {
+        "en": "placeholder 568",
+        "fr": "substitut 568"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy569",
+      "meaning": {
+        "en": "placeholder 569",
+        "fr": "substitut 569"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "파ㅋ다",
+      "romanization": "dummy570",
+      "meaning": {
+        "en": "placeholder 570",
+        "fr": "substitut 570"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "바ㅍ다",
+      "romanization": "dummy571",
+      "meaning": {
+        "en": "placeholder 571",
+        "fr": "substitut 571"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy572",
+      "meaning": {
+        "en": "placeholder 572",
+        "fr": "substitut 572"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy573",
+      "meaning": {
+        "en": "placeholder 573",
+        "fr": "substitut 573"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy574",
+      "meaning": {
+        "en": "placeholder 574",
+        "fr": "substitut 574"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy575",
+      "meaning": {
+        "en": "placeholder 575",
+        "fr": "substitut 575"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "가ㅆ다",
+      "romanization": "dummy576",
+      "meaning": {
+        "en": "placeholder 576",
+        "fr": "substitut 576"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy577",
+      "meaning": {
+        "en": "placeholder 577",
+        "fr": "substitut 577"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy578",
+      "meaning": {
+        "en": "placeholder 578",
+        "fr": "substitut 578"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy579",
+      "meaning": {
+        "en": "placeholder 579",
+        "fr": "substitut 579"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy580",
+      "meaning": {
+        "en": "placeholder 580",
+        "fr": "substitut 580"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "파ㅋ다",
+      "romanization": "dummy581",
+      "meaning": {
+        "en": "placeholder 581",
+        "fr": "substitut 581"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "라ㅆ다",
+      "romanization": "dummy582",
+      "meaning": {
+        "en": "placeholder 582",
+        "fr": "substitut 582"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅌ다",
+      "romanization": "dummy583",
+      "meaning": {
+        "en": "placeholder 583",
+        "fr": "substitut 583"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "다ㅌ다",
+      "romanization": "dummy584",
+      "meaning": {
+        "en": "placeholder 584",
+        "fr": "substitut 584"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy585",
+      "meaning": {
+        "en": "placeholder 585",
+        "fr": "substitut 585"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "라ㅉ다",
+      "romanization": "dummy586",
+      "meaning": {
+        "en": "placeholder 586",
+        "fr": "substitut 586"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "카ㅋ다",
+      "romanization": "dummy587",
+      "meaning": {
+        "en": "placeholder 587",
+        "fr": "substitut 587"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "바ㅍ다",
+      "romanization": "dummy588",
+      "meaning": {
+        "en": "placeholder 588",
+        "fr": "substitut 588"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy589",
+      "meaning": {
+        "en": "placeholder 589",
+        "fr": "substitut 589"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "라ㅆ다",
+      "romanization": "dummy590",
+      "meaning": {
+        "en": "placeholder 590",
+        "fr": "substitut 590"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy591",
+      "meaning": {
+        "en": "placeholder 591",
+        "fr": "substitut 591"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "자ㅆ다",
+      "romanization": "dummy592",
+      "meaning": {
+        "en": "placeholder 592",
+        "fr": "substitut 592"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "사ㅍ다",
+      "romanization": "dummy593",
+      "meaning": {
+        "en": "placeholder 593",
+        "fr": "substitut 593"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy594",
+      "meaning": {
+        "en": "placeholder 594",
+        "fr": "substitut 594"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "자ㅍ다",
+      "romanization": "dummy595",
+      "meaning": {
+        "en": "placeholder 595",
+        "fr": "substitut 595"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "다ㅍ다",
+      "romanization": "dummy596",
+      "meaning": {
+        "en": "placeholder 596",
+        "fr": "substitut 596"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "다ㅍ다",
+      "romanization": "dummy597",
+      "meaning": {
+        "en": "placeholder 597",
+        "fr": "substitut 597"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "라ㅍ다",
+      "romanization": "dummy598",
+      "meaning": {
+        "en": "placeholder 598",
+        "fr": "substitut 598"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy599",
+      "meaning": {
+        "en": "placeholder 599",
+        "fr": "substitut 599"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "파ㅎ다",
+      "romanization": "dummy600",
+      "meaning": {
+        "en": "placeholder 600",
+        "fr": "substitut 600"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "차ㅆ다",
+      "romanization": "dummy601",
+      "meaning": {
+        "en": "placeholder 601",
+        "fr": "substitut 601"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy602",
+      "meaning": {
+        "en": "placeholder 602",
+        "fr": "substitut 602"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy603",
+      "meaning": {
+        "en": "placeholder 603",
+        "fr": "substitut 603"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy604",
+      "meaning": {
+        "en": "placeholder 604",
+        "fr": "substitut 604"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy605",
+      "meaning": {
+        "en": "placeholder 605",
+        "fr": "substitut 605"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy606",
+      "meaning": {
+        "en": "placeholder 606",
+        "fr": "substitut 606"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "하ㅆ다",
+      "romanization": "dummy607",
+      "meaning": {
+        "en": "placeholder 607",
+        "fr": "substitut 607"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy608",
+      "meaning": {
+        "en": "placeholder 608",
+        "fr": "substitut 608"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy609",
+      "meaning": {
+        "en": "placeholder 609",
+        "fr": "substitut 609"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy610",
+      "meaning": {
+        "en": "placeholder 610",
+        "fr": "substitut 610"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅍ다",
+      "romanization": "dummy611",
+      "meaning": {
+        "en": "placeholder 611",
+        "fr": "substitut 611"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy612",
+      "meaning": {
+        "en": "placeholder 612",
+        "fr": "substitut 612"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "타ㅎ다",
+      "romanization": "dummy613",
+      "meaning": {
+        "en": "placeholder 613",
+        "fr": "substitut 613"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "가ㅎ다",
+      "romanization": "dummy614",
+      "meaning": {
+        "en": "placeholder 614",
+        "fr": "substitut 614"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "다ㅎ다",
+      "romanization": "dummy615",
+      "meaning": {
+        "en": "placeholder 615",
+        "fr": "substitut 615"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy616",
+      "meaning": {
+        "en": "placeholder 616",
+        "fr": "substitut 616"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy617",
+      "meaning": {
+        "en": "placeholder 617",
+        "fr": "substitut 617"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy618",
+      "meaning": {
+        "en": "placeholder 618",
+        "fr": "substitut 618"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "가ㅉ다",
+      "romanization": "dummy619",
+      "meaning": {
+        "en": "placeholder 619",
+        "fr": "substitut 619"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "다ㅌ다",
+      "romanization": "dummy620",
+      "meaning": {
+        "en": "placeholder 620",
+        "fr": "substitut 620"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy621",
+      "meaning": {
+        "en": "placeholder 621",
+        "fr": "substitut 621"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy622",
+      "meaning": {
+        "en": "placeholder 622",
+        "fr": "substitut 622"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "파ㅍ다",
+      "romanization": "dummy623",
+      "meaning": {
+        "en": "placeholder 623",
+        "fr": "substitut 623"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy624",
+      "meaning": {
+        "en": "placeholder 624",
+        "fr": "substitut 624"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "차ㅎ다",
+      "romanization": "dummy625",
+      "meaning": {
+        "en": "placeholder 625",
+        "fr": "substitut 625"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "가ㅎ다",
+      "romanization": "dummy626",
+      "meaning": {
+        "en": "placeholder 626",
+        "fr": "substitut 626"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "다ㅆ다",
+      "romanization": "dummy627",
+      "meaning": {
+        "en": "placeholder 627",
+        "fr": "substitut 627"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy628",
+      "meaning": {
+        "en": "placeholder 628",
+        "fr": "substitut 628"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "타ㅌ다",
+      "romanization": "dummy629",
+      "meaning": {
+        "en": "placeholder 629",
+        "fr": "substitut 629"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy630",
+      "meaning": {
+        "en": "placeholder 630",
+        "fr": "substitut 630"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "다ㅍ다",
+      "romanization": "dummy631",
+      "meaning": {
+        "en": "placeholder 631",
+        "fr": "substitut 631"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy632",
+      "meaning": {
+        "en": "placeholder 632",
+        "fr": "substitut 632"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "타ㅆ다",
+      "romanization": "dummy633",
+      "meaning": {
+        "en": "placeholder 633",
+        "fr": "substitut 633"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy634",
+      "meaning": {
+        "en": "placeholder 634",
+        "fr": "substitut 634"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy635",
+      "meaning": {
+        "en": "placeholder 635",
+        "fr": "substitut 635"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy636",
+      "meaning": {
+        "en": "placeholder 636",
+        "fr": "substitut 636"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "자ㅆ다",
+      "romanization": "dummy637",
+      "meaning": {
+        "en": "placeholder 637",
+        "fr": "substitut 637"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy638",
+      "meaning": {
+        "en": "placeholder 638",
+        "fr": "substitut 638"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy639",
+      "meaning": {
+        "en": "placeholder 639",
+        "fr": "substitut 639"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "카ㅍ다",
+      "romanization": "dummy640",
+      "meaning": {
+        "en": "placeholder 640",
+        "fr": "substitut 640"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅍ다",
+      "romanization": "dummy641",
+      "meaning": {
+        "en": "placeholder 641",
+        "fr": "substitut 641"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy642",
+      "meaning": {
+        "en": "placeholder 642",
+        "fr": "substitut 642"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "파ㅋ다",
+      "romanization": "dummy643",
+      "meaning": {
+        "en": "placeholder 643",
+        "fr": "substitut 643"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy644",
+      "meaning": {
+        "en": "placeholder 644",
+        "fr": "substitut 644"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "타ㅎ다",
+      "romanization": "dummy645",
+      "meaning": {
+        "en": "placeholder 645",
+        "fr": "substitut 645"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy646",
+      "meaning": {
+        "en": "placeholder 646",
+        "fr": "substitut 646"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy647",
+      "meaning": {
+        "en": "placeholder 647",
+        "fr": "substitut 647"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "가ㅉ다",
+      "romanization": "dummy648",
+      "meaning": {
+        "en": "placeholder 648",
+        "fr": "substitut 648"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy649",
+      "meaning": {
+        "en": "placeholder 649",
+        "fr": "substitut 649"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy650",
+      "meaning": {
+        "en": "placeholder 650",
+        "fr": "substitut 650"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "라ㅉ다",
+      "romanization": "dummy651",
+      "meaning": {
+        "en": "placeholder 651",
+        "fr": "substitut 651"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy652",
+      "meaning": {
+        "en": "placeholder 652",
+        "fr": "substitut 652"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy653",
+      "meaning": {
+        "en": "placeholder 653",
+        "fr": "substitut 653"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy654",
+      "meaning": {
+        "en": "placeholder 654",
+        "fr": "substitut 654"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "다ㅎ다",
+      "romanization": "dummy655",
+      "meaning": {
+        "en": "placeholder 655",
+        "fr": "substitut 655"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy656",
+      "meaning": {
+        "en": "placeholder 656",
+        "fr": "substitut 656"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy657",
+      "meaning": {
+        "en": "placeholder 657",
+        "fr": "substitut 657"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "차ㅎ다",
+      "romanization": "dummy658",
+      "meaning": {
+        "en": "placeholder 658",
+        "fr": "substitut 658"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy659",
+      "meaning": {
+        "en": "placeholder 659",
+        "fr": "substitut 659"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy660",
+      "meaning": {
+        "en": "placeholder 660",
+        "fr": "substitut 660"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "자ㅋ다",
+      "romanization": "dummy661",
+      "meaning": {
+        "en": "placeholder 661",
+        "fr": "substitut 661"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy662",
+      "meaning": {
+        "en": "placeholder 662",
+        "fr": "substitut 662"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅆ다",
+      "romanization": "dummy663",
+      "meaning": {
+        "en": "placeholder 663",
+        "fr": "substitut 663"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅎ다",
+      "romanization": "dummy664",
+      "meaning": {
+        "en": "placeholder 664",
+        "fr": "substitut 664"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy665",
+      "meaning": {
+        "en": "placeholder 665",
+        "fr": "substitut 665"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy666",
+      "meaning": {
+        "en": "placeholder 666",
+        "fr": "substitut 666"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "차ㅆ다",
+      "romanization": "dummy667",
+      "meaning": {
+        "en": "placeholder 667",
+        "fr": "substitut 667"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy668",
+      "meaning": {
+        "en": "placeholder 668",
+        "fr": "substitut 668"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "사ㅍ다",
+      "romanization": "dummy669",
+      "meaning": {
+        "en": "placeholder 669",
+        "fr": "substitut 669"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy670",
+      "meaning": {
+        "en": "placeholder 670",
+        "fr": "substitut 670"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy671",
+      "meaning": {
+        "en": "placeholder 671",
+        "fr": "substitut 671"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "나ㅎ다",
+      "romanization": "dummy672",
+      "meaning": {
+        "en": "placeholder 672",
+        "fr": "substitut 672"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy673",
+      "meaning": {
+        "en": "placeholder 673",
+        "fr": "substitut 673"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy674",
+      "meaning": {
+        "en": "placeholder 674",
+        "fr": "substitut 674"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy675",
+      "meaning": {
+        "en": "placeholder 675",
+        "fr": "substitut 675"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy676",
+      "meaning": {
+        "en": "placeholder 676",
+        "fr": "substitut 676"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy677",
+      "meaning": {
+        "en": "placeholder 677",
+        "fr": "substitut 677"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "차ㅌ다",
+      "romanization": "dummy678",
+      "meaning": {
+        "en": "placeholder 678",
+        "fr": "substitut 678"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy679",
+      "meaning": {
+        "en": "placeholder 679",
+        "fr": "substitut 679"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy680",
+      "meaning": {
+        "en": "placeholder 680",
+        "fr": "substitut 680"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "하ㅆ다",
+      "romanization": "dummy681",
+      "meaning": {
+        "en": "placeholder 681",
+        "fr": "substitut 681"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy682",
+      "meaning": {
+        "en": "placeholder 682",
+        "fr": "substitut 682"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy683",
+      "meaning": {
+        "en": "placeholder 683",
+        "fr": "substitut 683"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "라ㅆ다",
+      "romanization": "dummy684",
+      "meaning": {
+        "en": "placeholder 684",
+        "fr": "substitut 684"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy685",
+      "meaning": {
+        "en": "placeholder 685",
+        "fr": "substitut 685"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "사ㅍ다",
+      "romanization": "dummy686",
+      "meaning": {
+        "en": "placeholder 686",
+        "fr": "substitut 686"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "가ㅌ다",
+      "romanization": "dummy687",
+      "meaning": {
+        "en": "placeholder 687",
+        "fr": "substitut 687"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy688",
+      "meaning": {
+        "en": "placeholder 688",
+        "fr": "substitut 688"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy689",
+      "meaning": {
+        "en": "placeholder 689",
+        "fr": "substitut 689"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy690",
+      "meaning": {
+        "en": "placeholder 690",
+        "fr": "substitut 690"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy691",
+      "meaning": {
+        "en": "placeholder 691",
+        "fr": "substitut 691"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy692",
+      "meaning": {
+        "en": "placeholder 692",
+        "fr": "substitut 692"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "자ㅎ다",
+      "romanization": "dummy693",
+      "meaning": {
+        "en": "placeholder 693",
+        "fr": "substitut 693"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy694",
+      "meaning": {
+        "en": "placeholder 694",
+        "fr": "substitut 694"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "사ㅍ다",
+      "romanization": "dummy695",
+      "meaning": {
+        "en": "placeholder 695",
+        "fr": "substitut 695"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy696",
+      "meaning": {
+        "en": "placeholder 696",
+        "fr": "substitut 696"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy697",
+      "meaning": {
+        "en": "placeholder 697",
+        "fr": "substitut 697"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy698",
+      "meaning": {
+        "en": "placeholder 698",
+        "fr": "substitut 698"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "자ㅉ다",
+      "romanization": "dummy699",
+      "meaning": {
+        "en": "placeholder 699",
+        "fr": "substitut 699"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy700",
+      "meaning": {
+        "en": "placeholder 700",
+        "fr": "substitut 700"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "라ㅉ다",
+      "romanization": "dummy701",
+      "meaning": {
+        "en": "placeholder 701",
+        "fr": "substitut 701"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy702",
+      "meaning": {
+        "en": "placeholder 702",
+        "fr": "substitut 702"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "나ㅍ다",
+      "romanization": "dummy703",
+      "meaning": {
+        "en": "placeholder 703",
+        "fr": "substitut 703"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy704",
+      "meaning": {
+        "en": "placeholder 704",
+        "fr": "substitut 704"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy705",
+      "meaning": {
+        "en": "placeholder 705",
+        "fr": "substitut 705"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "사ㅍ다",
+      "romanization": "dummy706",
+      "meaning": {
+        "en": "placeholder 706",
+        "fr": "substitut 706"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy707",
+      "meaning": {
+        "en": "placeholder 707",
+        "fr": "substitut 707"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy708",
+      "meaning": {
+        "en": "placeholder 708",
+        "fr": "substitut 708"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy709",
+      "meaning": {
+        "en": "placeholder 709",
+        "fr": "substitut 709"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy710",
+      "meaning": {
+        "en": "placeholder 710",
+        "fr": "substitut 710"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "자ㅎ다",
+      "romanization": "dummy711",
+      "meaning": {
+        "en": "placeholder 711",
+        "fr": "substitut 711"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy712",
+      "meaning": {
+        "en": "placeholder 712",
+        "fr": "substitut 712"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy713",
+      "meaning": {
+        "en": "placeholder 713",
+        "fr": "substitut 713"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy714",
+      "meaning": {
+        "en": "placeholder 714",
+        "fr": "substitut 714"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy715",
+      "meaning": {
+        "en": "placeholder 715",
+        "fr": "substitut 715"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy716",
+      "meaning": {
+        "en": "placeholder 716",
+        "fr": "substitut 716"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "가ㅆ다",
+      "romanization": "dummy717",
+      "meaning": {
+        "en": "placeholder 717",
+        "fr": "substitut 717"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy718",
+      "meaning": {
+        "en": "placeholder 718",
+        "fr": "substitut 718"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "하ㅆ다",
+      "romanization": "dummy719",
+      "meaning": {
+        "en": "placeholder 719",
+        "fr": "substitut 719"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy720",
+      "meaning": {
+        "en": "placeholder 720",
+        "fr": "substitut 720"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy721",
+      "meaning": {
+        "en": "placeholder 721",
+        "fr": "substitut 721"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy722",
+      "meaning": {
+        "en": "placeholder 722",
+        "fr": "substitut 722"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "하ㅍ다",
+      "romanization": "dummy723",
+      "meaning": {
+        "en": "placeholder 723",
+        "fr": "substitut 723"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy724",
+      "meaning": {
+        "en": "placeholder 724",
+        "fr": "substitut 724"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "차ㅍ다",
+      "romanization": "dummy725",
+      "meaning": {
+        "en": "placeholder 725",
+        "fr": "substitut 725"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy726",
+      "meaning": {
+        "en": "placeholder 726",
+        "fr": "substitut 726"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy727",
+      "meaning": {
+        "en": "placeholder 727",
+        "fr": "substitut 727"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "라ㅉ다",
+      "romanization": "dummy728",
+      "meaning": {
+        "en": "placeholder 728",
+        "fr": "substitut 728"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅌ다",
+      "romanization": "dummy729",
+      "meaning": {
+        "en": "placeholder 729",
+        "fr": "substitut 729"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "자ㅆ다",
+      "romanization": "dummy730",
+      "meaning": {
+        "en": "placeholder 730",
+        "fr": "substitut 730"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy731",
+      "meaning": {
+        "en": "placeholder 731",
+        "fr": "substitut 731"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy732",
+      "meaning": {
+        "en": "placeholder 732",
+        "fr": "substitut 732"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy733",
+      "meaning": {
+        "en": "placeholder 733",
+        "fr": "substitut 733"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "바ㅋ다",
+      "romanization": "dummy734",
+      "meaning": {
+        "en": "placeholder 734",
+        "fr": "substitut 734"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy735",
+      "meaning": {
+        "en": "placeholder 735",
+        "fr": "substitut 735"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy736",
+      "meaning": {
+        "en": "placeholder 736",
+        "fr": "substitut 736"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy737",
+      "meaning": {
+        "en": "placeholder 737",
+        "fr": "substitut 737"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy738",
+      "meaning": {
+        "en": "placeholder 738",
+        "fr": "substitut 738"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy739",
+      "meaning": {
+        "en": "placeholder 739",
+        "fr": "substitut 739"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "파ㅎ다",
+      "romanization": "dummy740",
+      "meaning": {
+        "en": "placeholder 740",
+        "fr": "substitut 740"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "바ㅆ다",
+      "romanization": "dummy741",
+      "meaning": {
+        "en": "placeholder 741",
+        "fr": "substitut 741"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "차ㅍ다",
+      "romanization": "dummy742",
+      "meaning": {
+        "en": "placeholder 742",
+        "fr": "substitut 742"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy743",
+      "meaning": {
+        "en": "placeholder 743",
+        "fr": "substitut 743"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "차ㅍ다",
+      "romanization": "dummy744",
+      "meaning": {
+        "en": "placeholder 744",
+        "fr": "substitut 744"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy745",
+      "meaning": {
+        "en": "placeholder 745",
+        "fr": "substitut 745"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy746",
+      "meaning": {
+        "en": "placeholder 746",
+        "fr": "substitut 746"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy747",
+      "meaning": {
+        "en": "placeholder 747",
+        "fr": "substitut 747"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy748",
+      "meaning": {
+        "en": "placeholder 748",
+        "fr": "substitut 748"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "마ㅉ다",
+      "romanization": "dummy749",
+      "meaning": {
+        "en": "placeholder 749",
+        "fr": "substitut 749"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy750",
+      "meaning": {
+        "en": "placeholder 750",
+        "fr": "substitut 750"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy751",
+      "meaning": {
+        "en": "placeholder 751",
+        "fr": "substitut 751"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "가ㅍ다",
+      "romanization": "dummy752",
+      "meaning": {
+        "en": "placeholder 752",
+        "fr": "substitut 752"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "가ㅉ다",
+      "romanization": "dummy753",
+      "meaning": {
+        "en": "placeholder 753",
+        "fr": "substitut 753"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy754",
+      "meaning": {
+        "en": "placeholder 754",
+        "fr": "substitut 754"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "가ㅌ다",
+      "romanization": "dummy755",
+      "meaning": {
+        "en": "placeholder 755",
+        "fr": "substitut 755"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅆ다",
+      "romanization": "dummy756",
+      "meaning": {
+        "en": "placeholder 756",
+        "fr": "substitut 756"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "바ㅌ다",
+      "romanization": "dummy757",
+      "meaning": {
+        "en": "placeholder 757",
+        "fr": "substitut 757"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "파ㅆ다",
+      "romanization": "dummy758",
+      "meaning": {
+        "en": "placeholder 758",
+        "fr": "substitut 758"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy759",
+      "meaning": {
+        "en": "placeholder 759",
+        "fr": "substitut 759"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "타ㅎ다",
+      "romanization": "dummy760",
+      "meaning": {
+        "en": "placeholder 760",
+        "fr": "substitut 760"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "나ㅌ다",
+      "romanization": "dummy761",
+      "meaning": {
+        "en": "placeholder 761",
+        "fr": "substitut 761"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy762",
+      "meaning": {
+        "en": "placeholder 762",
+        "fr": "substitut 762"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "타ㅎ다",
+      "romanization": "dummy763",
+      "meaning": {
+        "en": "placeholder 763",
+        "fr": "substitut 763"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "라ㅆ다",
+      "romanization": "dummy764",
+      "meaning": {
+        "en": "placeholder 764",
+        "fr": "substitut 764"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy765",
+      "meaning": {
+        "en": "placeholder 765",
+        "fr": "substitut 765"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy766",
+      "meaning": {
+        "en": "placeholder 766",
+        "fr": "substitut 766"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "자ㅍ다",
+      "romanization": "dummy767",
+      "meaning": {
+        "en": "placeholder 767",
+        "fr": "substitut 767"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy768",
+      "meaning": {
+        "en": "placeholder 768",
+        "fr": "substitut 768"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "하ㅎ다",
+      "romanization": "dummy769",
+      "meaning": {
+        "en": "placeholder 769",
+        "fr": "substitut 769"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "하ㅋ다",
+      "romanization": "dummy770",
+      "meaning": {
+        "en": "placeholder 770",
+        "fr": "substitut 770"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy771",
+      "meaning": {
+        "en": "placeholder 771",
+        "fr": "substitut 771"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "라ㅎ다",
+      "romanization": "dummy772",
+      "meaning": {
+        "en": "placeholder 772",
+        "fr": "substitut 772"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "자ㅎ다",
+      "romanization": "dummy773",
+      "meaning": {
+        "en": "placeholder 773",
+        "fr": "substitut 773"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "차ㅆ다",
+      "romanization": "dummy774",
+      "meaning": {
+        "en": "placeholder 774",
+        "fr": "substitut 774"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "파ㅍ다",
+      "romanization": "dummy775",
+      "meaning": {
+        "en": "placeholder 775",
+        "fr": "substitut 775"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "마ㅋ다",
+      "romanization": "dummy776",
+      "meaning": {
+        "en": "placeholder 776",
+        "fr": "substitut 776"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy777",
+      "meaning": {
+        "en": "placeholder 777",
+        "fr": "substitut 777"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy778",
+      "meaning": {
+        "en": "placeholder 778",
+        "fr": "substitut 778"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy779",
+      "meaning": {
+        "en": "placeholder 779",
+        "fr": "substitut 779"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "라ㅉ다",
+      "romanization": "dummy780",
+      "meaning": {
+        "en": "placeholder 780",
+        "fr": "substitut 780"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "바ㅉ다",
+      "romanization": "dummy781",
+      "meaning": {
+        "en": "placeholder 781",
+        "fr": "substitut 781"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "바ㅌ다",
+      "romanization": "dummy782",
+      "meaning": {
+        "en": "placeholder 782",
+        "fr": "substitut 782"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy783",
+      "meaning": {
+        "en": "placeholder 783",
+        "fr": "substitut 783"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy784",
+      "meaning": {
+        "en": "placeholder 784",
+        "fr": "substitut 784"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy785",
+      "meaning": {
+        "en": "placeholder 785",
+        "fr": "substitut 785"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "자ㅎ다",
+      "romanization": "dummy786",
+      "meaning": {
+        "en": "placeholder 786",
+        "fr": "substitut 786"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy787",
+      "meaning": {
+        "en": "placeholder 787",
+        "fr": "substitut 787"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy788",
+      "meaning": {
+        "en": "placeholder 788",
+        "fr": "substitut 788"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "라ㅍ다",
+      "romanization": "dummy789",
+      "meaning": {
+        "en": "placeholder 789",
+        "fr": "substitut 789"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy790",
+      "meaning": {
+        "en": "placeholder 790",
+        "fr": "substitut 790"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy791",
+      "meaning": {
+        "en": "placeholder 791",
+        "fr": "substitut 791"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy792",
+      "meaning": {
+        "en": "placeholder 792",
+        "fr": "substitut 792"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "나ㅎ다",
+      "romanization": "dummy793",
+      "meaning": {
+        "en": "placeholder 793",
+        "fr": "substitut 793"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "라ㅌ다",
+      "romanization": "dummy794",
+      "meaning": {
+        "en": "placeholder 794",
+        "fr": "substitut 794"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "다ㅌ다",
+      "romanization": "dummy795",
+      "meaning": {
+        "en": "placeholder 795",
+        "fr": "substitut 795"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "하ㅆ다",
+      "romanization": "dummy796",
+      "meaning": {
+        "en": "placeholder 796",
+        "fr": "substitut 796"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy797",
+      "meaning": {
+        "en": "placeholder 797",
+        "fr": "substitut 797"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "라ㅉ다",
+      "romanization": "dummy798",
+      "meaning": {
+        "en": "placeholder 798",
+        "fr": "substitut 798"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "바ㅎ다",
+      "romanization": "dummy799",
+      "meaning": {
+        "en": "placeholder 799",
+        "fr": "substitut 799"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "사ㅆ다",
+      "romanization": "dummy800",
+      "meaning": {
+        "en": "placeholder 800",
+        "fr": "substitut 800"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "가ㅋ다",
+      "romanization": "dummy801",
+      "meaning": {
+        "en": "placeholder 801",
+        "fr": "substitut 801"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅋ다",
+      "romanization": "dummy802",
+      "meaning": {
+        "en": "placeholder 802",
+        "fr": "substitut 802"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy803",
+      "meaning": {
+        "en": "placeholder 803",
+        "fr": "substitut 803"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "다ㅎ다",
+      "romanization": "dummy804",
+      "meaning": {
+        "en": "placeholder 804",
+        "fr": "substitut 804"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "차ㅋ다",
+      "romanization": "dummy805",
+      "meaning": {
+        "en": "placeholder 805",
+        "fr": "substitut 805"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "가ㅎ다",
+      "romanization": "dummy806",
+      "meaning": {
+        "en": "placeholder 806",
+        "fr": "substitut 806"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy807",
+      "meaning": {
+        "en": "placeholder 807",
+        "fr": "substitut 807"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "가ㅆ다",
+      "romanization": "dummy808",
+      "meaning": {
+        "en": "placeholder 808",
+        "fr": "substitut 808"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy809",
+      "meaning": {
+        "en": "placeholder 809",
+        "fr": "substitut 809"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "차ㅆ다",
+      "romanization": "dummy810",
+      "meaning": {
+        "en": "placeholder 810",
+        "fr": "substitut 810"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy811",
+      "meaning": {
+        "en": "placeholder 811",
+        "fr": "substitut 811"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "카ㅋ다",
+      "romanization": "dummy812",
+      "meaning": {
+        "en": "placeholder 812",
+        "fr": "substitut 812"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "파ㅎ다",
+      "romanization": "dummy813",
+      "meaning": {
+        "en": "placeholder 813",
+        "fr": "substitut 813"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy814",
+      "meaning": {
+        "en": "placeholder 814",
+        "fr": "substitut 814"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "사ㅋ다",
+      "romanization": "dummy815",
+      "meaning": {
+        "en": "placeholder 815",
+        "fr": "substitut 815"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅆ다",
+      "romanization": "dummy816",
+      "meaning": {
+        "en": "placeholder 816",
+        "fr": "substitut 816"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "차ㅌ다",
+      "romanization": "dummy817",
+      "meaning": {
+        "en": "placeholder 817",
+        "fr": "substitut 817"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "라ㅍ다",
+      "romanization": "dummy818",
+      "meaning": {
+        "en": "placeholder 818",
+        "fr": "substitut 818"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "하ㅉ다",
+      "romanization": "dummy819",
+      "meaning": {
+        "en": "placeholder 819",
+        "fr": "substitut 819"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy820",
+      "meaning": {
+        "en": "placeholder 820",
+        "fr": "substitut 820"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "자ㅉ다",
+      "romanization": "dummy821",
+      "meaning": {
+        "en": "placeholder 821",
+        "fr": "substitut 821"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy822",
+      "meaning": {
+        "en": "placeholder 822",
+        "fr": "substitut 822"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "타ㅍ다",
+      "romanization": "dummy823",
+      "meaning": {
+        "en": "placeholder 823",
+        "fr": "substitut 823"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "가ㅆ다",
+      "romanization": "dummy824",
+      "meaning": {
+        "en": "placeholder 824",
+        "fr": "substitut 824"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "가ㅉ다",
+      "romanization": "dummy825",
+      "meaning": {
+        "en": "placeholder 825",
+        "fr": "substitut 825"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "파ㅋ다",
+      "romanization": "dummy826",
+      "meaning": {
+        "en": "placeholder 826",
+        "fr": "substitut 826"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "타ㅎ다",
+      "romanization": "dummy827",
+      "meaning": {
+        "en": "placeholder 827",
+        "fr": "substitut 827"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "가ㅉ다",
+      "romanization": "dummy828",
+      "meaning": {
+        "en": "placeholder 828",
+        "fr": "substitut 828"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "파ㅍ다",
+      "romanization": "dummy829",
+      "meaning": {
+        "en": "placeholder 829",
+        "fr": "substitut 829"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "자ㅋ다",
+      "romanization": "dummy830",
+      "meaning": {
+        "en": "placeholder 830",
+        "fr": "substitut 830"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy831",
+      "meaning": {
+        "en": "placeholder 831",
+        "fr": "substitut 831"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "나ㅋ다",
+      "romanization": "dummy832",
+      "meaning": {
+        "en": "placeholder 832",
+        "fr": "substitut 832"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "파ㅋ다",
+      "romanization": "dummy833",
+      "meaning": {
+        "en": "placeholder 833",
+        "fr": "substitut 833"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "가ㅉ다",
+      "romanization": "dummy834",
+      "meaning": {
+        "en": "placeholder 834",
+        "fr": "substitut 834"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "라ㅋ다",
+      "romanization": "dummy835",
+      "meaning": {
+        "en": "placeholder 835",
+        "fr": "substitut 835"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "자ㅍ다",
+      "romanization": "dummy836",
+      "meaning": {
+        "en": "placeholder 836",
+        "fr": "substitut 836"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "카ㅉ다",
+      "romanization": "dummy837",
+      "meaning": {
+        "en": "placeholder 837",
+        "fr": "substitut 837"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "마ㅆ다",
+      "romanization": "dummy838",
+      "meaning": {
+        "en": "placeholder 838",
+        "fr": "substitut 838"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "나ㅎ다",
+      "romanization": "dummy839",
+      "meaning": {
+        "en": "placeholder 839",
+        "fr": "substitut 839"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "라ㅆ다",
+      "romanization": "dummy840",
+      "meaning": {
+        "en": "placeholder 840",
+        "fr": "substitut 840"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy841",
+      "meaning": {
+        "en": "placeholder 841",
+        "fr": "substitut 841"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "타ㅌ다",
+      "romanization": "dummy842",
+      "meaning": {
+        "en": "placeholder 842",
+        "fr": "substitut 842"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy843",
+      "meaning": {
+        "en": "placeholder 843",
+        "fr": "substitut 843"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "라ㅉ다",
+      "romanization": "dummy844",
+      "meaning": {
+        "en": "placeholder 844",
+        "fr": "substitut 844"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy845",
+      "meaning": {
+        "en": "placeholder 845",
+        "fr": "substitut 845"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "사ㅌ다",
+      "romanization": "dummy846",
+      "meaning": {
+        "en": "placeholder 846",
+        "fr": "substitut 846"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "파ㅍ다",
+      "romanization": "dummy847",
+      "meaning": {
+        "en": "placeholder 847",
+        "fr": "substitut 847"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "차ㅆ다",
+      "romanization": "dummy848",
+      "meaning": {
+        "en": "placeholder 848",
+        "fr": "substitut 848"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy849",
+      "meaning": {
+        "en": "placeholder 849",
+        "fr": "substitut 849"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "다ㅍ다",
+      "romanization": "dummy850",
+      "meaning": {
+        "en": "placeholder 850",
+        "fr": "substitut 850"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy851",
+      "meaning": {
+        "en": "placeholder 851",
+        "fr": "substitut 851"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "마ㅎ다",
+      "romanization": "dummy852",
+      "meaning": {
+        "en": "placeholder 852",
+        "fr": "substitut 852"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "마ㅍ다",
+      "romanization": "dummy853",
+      "meaning": {
+        "en": "placeholder 853",
+        "fr": "substitut 853"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy854",
+      "meaning": {
+        "en": "placeholder 854",
+        "fr": "substitut 854"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "사ㅍ다",
+      "romanization": "dummy855",
+      "meaning": {
+        "en": "placeholder 855",
+        "fr": "substitut 855"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "차ㅌ다",
+      "romanization": "dummy856",
+      "meaning": {
+        "en": "placeholder 856",
+        "fr": "substitut 856"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "차ㅉ다",
+      "romanization": "dummy857",
+      "meaning": {
+        "en": "placeholder 857",
+        "fr": "substitut 857"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "카ㅆ다",
+      "romanization": "dummy858",
+      "meaning": {
+        "en": "placeholder 858",
+        "fr": "substitut 858"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "다ㅉ다",
+      "romanization": "dummy859",
+      "meaning": {
+        "en": "placeholder 859",
+        "fr": "substitut 859"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy860",
+      "meaning": {
+        "en": "placeholder 860",
+        "fr": "substitut 860"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "하ㅍ다",
+      "romanization": "dummy861",
+      "meaning": {
+        "en": "placeholder 861",
+        "fr": "substitut 861"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy862",
+      "meaning": {
+        "en": "placeholder 862",
+        "fr": "substitut 862"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "나ㅆ다",
+      "romanization": "dummy863",
+      "meaning": {
+        "en": "placeholder 863",
+        "fr": "substitut 863"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy864",
+      "meaning": {
+        "en": "placeholder 864",
+        "fr": "substitut 864"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "다ㅆ다",
+      "romanization": "dummy865",
+      "meaning": {
+        "en": "placeholder 865",
+        "fr": "substitut 865"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "나ㅉ다",
+      "romanization": "dummy866",
+      "meaning": {
+        "en": "placeholder 866",
+        "fr": "substitut 866"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "카ㅎ다",
+      "romanization": "dummy867",
+      "meaning": {
+        "en": "placeholder 867",
+        "fr": "substitut 867"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "사ㅉ다",
+      "romanization": "dummy868",
+      "meaning": {
+        "en": "placeholder 868",
+        "fr": "substitut 868"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "타ㅎ다",
+      "romanization": "dummy869",
+      "meaning": {
+        "en": "placeholder 869",
+        "fr": "substitut 869"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "하ㅋ다",
+      "romanization": "dummy870",
+      "meaning": {
+        "en": "placeholder 870",
+        "fr": "substitut 870"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "자ㅉ다",
+      "romanization": "dummy871",
+      "meaning": {
+        "en": "placeholder 871",
+        "fr": "substitut 871"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "자ㅆ다",
+      "romanization": "dummy872",
+      "meaning": {
+        "en": "placeholder 872",
+        "fr": "substitut 872"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "가ㅆ다",
+      "romanization": "dummy873",
+      "meaning": {
+        "en": "placeholder 873",
+        "fr": "substitut 873"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "마ㅌ다",
+      "romanization": "dummy874",
+      "meaning": {
+        "en": "placeholder 874",
+        "fr": "substitut 874"
+      }
+    },
+    {
+      "category": "nature",
+      "hangeul": "라ㅉ다",
+      "romanization": "dummy875",
+      "meaning": {
+        "en": "placeholder 875",
+        "fr": "substitut 875"
+      }
+    },
+    {
+      "category": "nouns",
+      "hangeul": "가ㅎ다",
+      "romanization": "dummy876",
+      "meaning": {
+        "en": "placeholder 876",
+        "fr": "substitut 876"
+      }
+    },
+    {
+      "category": "adjectives",
+      "hangeul": "하ㅌ다",
+      "romanization": "dummy877",
+      "meaning": {
+        "en": "placeholder 877",
+        "fr": "substitut 877"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy878",
+      "meaning": {
+        "en": "placeholder 878",
+        "fr": "substitut 878"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "타ㅉ다",
+      "romanization": "dummy879",
+      "meaning": {
+        "en": "placeholder 879",
+        "fr": "substitut 879"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "타ㅋ다",
+      "romanization": "dummy880",
+      "meaning": {
+        "en": "placeholder 880",
+        "fr": "substitut 880"
+      }
+    },
+    {
+      "category": "dishes",
+      "hangeul": "라ㅎ다",
+      "romanization": "dummy881",
+      "meaning": {
+        "en": "placeholder 881",
+        "fr": "substitut 881"
+      }
+    },
+    {
+      "category": "countries",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy882",
+      "meaning": {
+        "en": "placeholder 882",
+        "fr": "substitut 882"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "가ㅆ다",
+      "romanization": "dummy883",
+      "meaning": {
+        "en": "placeholder 883",
+        "fr": "substitut 883"
+      }
+    },
+    {
+      "category": "animals",
+      "hangeul": "자ㅉ다",
+      "romanization": "dummy884",
+      "meaning": {
+        "en": "placeholder 884",
+        "fr": "substitut 884"
+      }
+    },
+    {
+      "category": "cities",
+      "hangeul": "파ㅌ다",
+      "romanization": "dummy885",
+      "meaning": {
+        "en": "placeholder 885",
+        "fr": "substitut 885"
+      }
+    },
+    {
+      "category": "verbs",
+      "hangeul": "파ㅉ다",
+      "romanization": "dummy886",
+      "meaning": {
+        "en": "placeholder 886",
+        "fr": "substitut 886"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "카ㅌ다",
+      "romanization": "dummy887",
+      "meaning": {
+        "en": "placeholder 887",
+        "fr": "substitut 887"
+      }
+    },
+    {
+      "category": "objects",
+      "hangeul": "사ㅎ다",
+      "romanization": "dummy888",
+      "meaning": {
+        "en": "placeholder 888",
+        "fr": "substitut 888"
+      }
+    },
+    {
+      "category": "adverbs",
+      "hangeul": "자ㅌ다",
+      "romanization": "dummy889",
+      "meaning": {
+        "en": "placeholder 889",
+        "fr": "substitut 889"
+      }
+    }
+  ]
+}
